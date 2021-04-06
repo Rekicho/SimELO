@@ -1,0 +1,507 @@
+{
+    "teams": [
+        {
+            "name": "Barcelona",
+            "elo": 1931,
+            "points": 62
+        },
+        {
+            "name": "RealMadrid",
+            "elo": 1918,
+            "points": 60
+        },
+        {
+            "name": "Atletico",
+            "elo": 1887,
+            "points": 66
+        },
+        {
+            "name": "Sevilla",
+            "elo": 1830,
+            "points": 55
+        },
+        {
+            "name": "Villarreal",
+            "elo": 1790,
+            "points": 43
+        },
+        {
+            "name": "RealSociedad",
+            "elo": 1747,
+            "points": 45
+        },
+        {
+            "name": "Bilbao",
+            "elo": 1715,
+            "points": 35
+        },
+        {
+            "name": "Betis",
+            "elo": 1711,
+            "points": 45
+        },
+        {
+            "name": "Levante",
+            "elo": 1710,
+            "points": 35
+        },
+        {
+            "name": "Valencia",
+            "elo": 1704,
+            "points": 33
+        },
+        {
+            "name": "Granada",
+            "elo": 1694,
+            "points": 36
+        },
+        {
+            "name": "Celta",
+            "elo": 1670,
+            "points": 34
+        },
+        {
+            "name": "Getafe",
+            "elo": 1670,
+            "points": 29
+        },
+        {
+            "name": "Osasuna",
+            "elo": 1662,
+            "points": 30
+        },
+        {
+            "name": "Valladolid",
+            "elo": 1635,
+            "points": 27
+        },
+        {
+            "name": "Eibar",
+            "elo": 1626,
+            "points": 23
+        },
+        {
+            "name": "Alaves",
+            "elo": 1600,
+            "points": 23
+        },
+        {
+            "name": "Huesca",
+            "elo": 1586,
+            "points": 21
+        },
+        {
+            "name": "Cadiz",
+            "elo": 1583,
+            "points": 29
+        },
+        {
+            "name": "Elche",
+            "elo": 1580,
+            "points": 25
+        }
+    ],
+    "HFA": 58.4,
+    "schedule": [
+        {
+            "home": "Levante",
+            "away": "Huesca"
+        },
+        {
+            "home": "Granada",
+            "away": "Villarreal"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Eibar"
+        },
+        {
+            "home": "Osasuna",
+            "away": "Getafe"
+        },
+        {
+            "home": "Alaves",
+            "away": "Celta"
+        },
+        {
+            "home": "Elche",
+            "away": "Betis"
+        },
+        {
+            "home": "Cadiz",
+            "away": "Valencia"
+        },
+        {
+            "home": "Sevilla",
+            "away": "Atletico"
+        },
+        {
+            "home": "Barcelona",
+            "away": "Valladolid"
+        },
+        {
+            "home": "RealSociedad",
+            "away": "Bilbao"
+        },
+        {
+            "home": "Huesca",
+            "away": "Elche"
+        },
+        {
+            "home": "Getafe",
+            "away": "Cadiz"
+        },
+        {
+            "home": "Bilbao",
+            "away": "Alaves"
+        },
+        {
+            "home": "Eibar",
+            "away": "Levante"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Barcelona"
+        },
+        {
+            "home": "Villarreal",
+            "away": "Osasuna"
+        },
+        {
+            "home": "Valencia",
+            "away": "RealSociedad"
+        },
+        {
+            "home": "Valladolid",
+            "away": "Granada"
+        },
+        {
+            "home": "Betis",
+            "away": "Atletico"
+        },
+        {
+            "home": "Celta",
+            "away": "Sevilla"
+        },
+        {
+            "home": "Alaves",
+            "away": "Villarreal"
+        },
+        {
+            "home": "Atletico",
+            "away": "Huesca"
+        },
+        {
+            "home": "Barcelona",
+            "away": "Getafe"
+        },
+        {
+            "home": "Betis",
+            "away": "Bilbao"
+        },
+        {
+            "home": "Cadiz",
+            "away": "RealMadrid"
+        },
+        {
+            "home": "Elche",
+            "away": "Valladolid"
+        },
+        {
+            "home": "Granada",
+            "away": "Eibar"
+        },
+        {
+            "home": "Levante",
+            "away": "Sevilla"
+        },
+        {
+            "home": "Osasuna",
+            "away": "Valencia"
+        },
+        {
+            "home": "RealSociedad",
+            "away": "Celta"
+        },
+        {
+            "home": "Bilbao",
+            "away": "Atletico"
+        },
+        {
+            "home": "Celta",
+            "away": "Osasuna"
+        },
+        {
+            "home": "Eibar",
+            "away": "RealSociedad"
+        },
+        {
+            "home": "Elche",
+            "away": "Levante"
+        },
+        {
+            "home": "Huesca",
+            "away": "Getafe"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Betis"
+        },
+        {
+            "home": "Sevilla",
+            "away": "Granada"
+        },
+        {
+            "home": "Valencia",
+            "away": "Alaves"
+        },
+        {
+            "home": "Valladolid",
+            "away": "Cadiz"
+        },
+        {
+            "home": "Villarreal",
+            "away": "Barcelona"
+        },
+        {
+            "home": "Alaves",
+            "away": "Huesca"
+        },
+        {
+            "home": "Bilbao",
+            "away": "Valladolid"
+        },
+        {
+            "home": "Atletico",
+            "away": "Eibar"
+        },
+        {
+            "home": "Barcelona",
+            "away": "Granada"
+        },
+        {
+            "home": "Betis",
+            "away": "Valencia"
+        },
+        {
+            "home": "Cadiz",
+            "away": "Celta"
+        },
+        {
+            "home": "Getafe",
+            "away": "RealMadrid"
+        },
+        {
+            "home": "Levante",
+            "away": "Villarreal"
+        },
+        {
+            "home": "Osasuna",
+            "away": "Elche"
+        },
+        {
+            "home": "RealSociedad",
+            "away": "Sevilla"
+        },
+        {
+            "home": "Celta",
+            "away": "Levante"
+        },
+        {
+            "home": "Eibar",
+            "away": "Alaves"
+        },
+        {
+            "home": "Elche",
+            "away": "Atletico"
+        },
+        {
+            "home": "Granada",
+            "away": "Cadiz"
+        },
+        {
+            "home": "Huesca",
+            "away": "RealSociedad"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Osasuna"
+        },
+        {
+            "home": "Sevilla",
+            "away": "Bilbao"
+        },
+        {
+            "home": "Valencia",
+            "away": "Barcelona"
+        },
+        {
+            "home": "Valladolid",
+            "away": "Betis"
+        },
+        {
+            "home": "Villarreal",
+            "away": "Getafe"
+        },
+        {
+            "home": "Alaves",
+            "away": "Levante"
+        },
+        {
+            "home": "Bilbao",
+            "away": "Osasuna"
+        },
+        {
+            "home": "Barcelona",
+            "away": "Atletico"
+        },
+        {
+            "home": "Betis",
+            "away": "Granada"
+        },
+        {
+            "home": "Cadiz",
+            "away": "Huesca"
+        },
+        {
+            "home": "Getafe",
+            "away": "Eibar"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Sevilla"
+        },
+        {
+            "home": "RealSociedad",
+            "away": "Elche"
+        },
+        {
+            "home": "Valencia",
+            "away": "Valladolid"
+        },
+        {
+            "home": "Villarreal",
+            "away": "Celta"
+        },
+        {
+            "home": "Atletico",
+            "away": "RealSociedad"
+        },
+        {
+            "home": "Celta",
+            "away": "Getafe"
+        },
+        {
+            "home": "Eibar",
+            "away": "Betis"
+        },
+        {
+            "home": "Elche",
+            "away": "Alaves"
+        },
+        {
+            "home": "Granada",
+            "away": "RealMadrid"
+        },
+        {
+            "home": "Huesca",
+            "away": "Bilbao"
+        },
+        {
+            "home": "Levante",
+            "away": "Barcelona"
+        },
+        {
+            "home": "Osasuna",
+            "away": "Cadiz"
+        },
+        {
+            "home": "Sevilla",
+            "away": "Valencia"
+        },
+        {
+            "home": "Valladolid",
+            "away": "Villarreal"
+        },
+        {
+            "home": "Alaves",
+            "away": "Granada"
+        },
+        {
+            "home": "Bilbao",
+            "away": "RealMadrid"
+        },
+        {
+            "home": "Atletico",
+            "away": "Osasuna"
+        },
+        {
+            "home": "Barcelona",
+            "away": "Celta"
+        },
+        {
+            "home": "Betis",
+            "away": "Huesca"
+        },
+        {
+            "home": "Cadiz",
+            "away": "Elche"
+        },
+        {
+            "home": "Getafe",
+            "away": "Levante"
+        },
+        {
+            "home": "RealSociedad",
+            "away": "Valladolid"
+        },
+        {
+            "home": "Valencia",
+            "away": "Eibar"
+        },
+        {
+            "home": "Villarreal",
+            "away": "Sevilla"
+        },
+        {
+            "home": "Celta",
+            "away": "Betis"
+        },
+        {
+            "home": "Eibar",
+            "away": "Barcelona"
+        },
+        {
+            "home": "Elche",
+            "away": "Bilbao"
+        },
+        {
+            "home": "Granada",
+            "away": "Getafe"
+        },
+        {
+            "home": "Huesca",
+            "away": "Valencia"
+        },
+        {
+            "home": "Levante",
+            "away": "Cadiz"
+        },
+        {
+            "home": "Osasuna",
+            "away": "RealSociedad"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Villarreal"
+        },
+        {
+            "home": "Sevilla",
+            "away": "Alaves"
+        },
+        {
+            "home": "Valladolid",
+            "away": "Atletico"
+        }
+    ]
+}

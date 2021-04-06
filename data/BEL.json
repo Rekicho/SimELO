@@ -1,0 +1,213 @@
+{
+    "teams": [
+        {
+            "name": "Brugge",
+            "elo": 1665,
+            "points": 70
+        },
+        {
+            "name": "Antwerp",
+            "elo": 1538,
+            "points": 54
+        },
+        {
+            "name": "Anderlecht",
+            "elo": 1506,
+            "points": 49
+        },
+        {
+            "name": "Genk",
+            "elo": 1503,
+            "points": 50
+        },
+        {
+            "name": "Gent",
+            "elo": 1481,
+            "points": 43
+        },
+        {
+            "name": "Charleroi",
+            "elo": 1478,
+            "points": 41
+        },
+        {
+            "name": "Standard",
+            "elo": 1472,
+            "points": 41
+        },
+        {
+            "name": "Mechelen",
+            "elo": 1437,
+            "points": 42
+        },
+        {
+            "name": "Oostende",
+            "elo": 1428,
+            "points": 49
+        },
+        {
+            "name": "ZulteWaregem",
+            "elo": 1420,
+            "points": 43
+        },
+        {
+            "name": "Leuven",
+            "elo": 1410,
+            "points": 45
+        },
+        {
+            "name": "Eupen",
+            "elo": 1399,
+            "points": 40
+        },
+        {
+            "name": "BeerschotAC",
+            "elo": 1395,
+            "points": 44
+        },
+        {
+            "name": "Kortrijk",
+            "elo": 1395,
+            "points": 36
+        },
+        {
+            "name": "StTruiden",
+            "elo": 1390,
+            "points": 32
+        },
+        {
+            "name": "Mouscron",
+            "elo": 1362,
+            "points": 30
+        },
+        {
+            "name": "CercleBrugge",
+            "elo": 1315,
+            "points": 29
+        },
+        {
+            "name": "Beveren",
+            "elo": 1299,
+            "points": 25
+        }
+    ],
+    "HFA": 45.7,
+    "schedule": [
+        {
+            "home": "Oostende",
+            "away": "Beveren"
+        },
+        {
+            "home": "StTruiden",
+            "away": "Mechelen"
+        },
+        {
+            "home": "Kortrijk",
+            "away": "Brugge"
+        },
+        {
+            "home": "CercleBrugge",
+            "away": "BeerschotAC"
+        },
+        {
+            "home": "Standard",
+            "away": "Gent"
+        },
+        {
+            "home": "Charleroi",
+            "away": "Mouscron"
+        },
+        {
+            "home": "Leuven",
+            "away": "Genk"
+        },
+        {
+            "home": "ZulteWaregem",
+            "away": "Eupen"
+        },
+        {
+            "home": "Antwerp",
+            "away": "Anderlecht"
+        },
+        {
+            "home": "Beveren",
+            "away": "StTruiden"
+        },
+        {
+            "home": "BeerschotAC",
+            "away": "Charleroi"
+        },
+        {
+            "home": "Eupen",
+            "away": "Standard"
+        },
+        {
+            "home": "CercleBrugge",
+            "away": "Leuven"
+        },
+        {
+            "home": "Mechelen",
+            "away": "ZulteWaregem"
+        },
+        {
+            "home": "Gent",
+            "away": "Charleroi"
+        },
+        {
+            "home": "Genk",
+            "away": "StTruiden"
+        },
+        {
+            "home": "Beveren",
+            "away": "Kortrijk"
+        },
+        {
+            "home": "Anderlecht",
+            "away": "Brugge"
+        },
+        {
+            "home": "BeerschotAC",
+            "away": "Oostende"
+        },
+        {
+            "home": "Mouscron",
+            "away": "Antwerp"
+        },
+        {
+            "home": "Antwerp",
+            "away": "Genk"
+        },
+        {
+            "home": "Charleroi",
+            "away": "Eupen"
+        },
+        {
+            "home": "Brugge",
+            "away": "Mouscron"
+        },
+        {
+            "home": "Kortrijk",
+            "away": "Mechelen"
+        },
+        {
+            "home": "Leuven",
+            "away": "Beveren"
+        },
+        {
+            "home": "Oostende",
+            "away": "CercleBrugge"
+        },
+        {
+            "home": "Standard",
+            "away": "BeerschotAC"
+        },
+        {
+            "home": "StTruiden",
+            "away": "Anderlecht"
+        },
+        {
+            "home": "ZulteWaregem",
+            "away": "Gent"
+        }
+    ]
+}

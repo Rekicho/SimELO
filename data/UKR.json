@@ -1,0 +1,273 @@
+{
+    "teams": [
+        {
+            "name": "Shakhtar",
+            "elo": 1716,
+            "points": 39
+        },
+        {
+            "name": "DynamoKyiv",
+            "elo": 1640,
+            "points": 46
+        },
+        {
+            "name": "Zorya",
+            "elo": 1550,
+            "points": 32
+        },
+        {
+            "name": "Desna",
+            "elo": 1483,
+            "points": 30
+        },
+        {
+            "name": "Olexandriya",
+            "elo": 1435,
+            "points": 26
+        },
+        {
+            "name": "Kolos",
+            "elo": 1421,
+            "points": 29
+        },
+        {
+            "name": "Vorskla",
+            "elo": 1401,
+            "points": 31
+        },
+        {
+            "name": "Dnipro",
+            "elo": 1383,
+            "points": 22
+        },
+        {
+            "name": "Ilichivets",
+            "elo": 1350,
+            "points": 18
+        },
+        {
+            "name": "Inhulets",
+            "elo": 1326,
+            "points": 19
+        },
+        {
+            "name": "OlimpikDonetsk",
+            "elo": 1321,
+            "points": 17
+        },
+        {
+            "name": "RukhLviv",
+            "elo": 1298,
+            "points": 13
+        },
+        {
+            "name": "Mynai",
+            "elo": 1290,
+            "points": 14
+        },
+        {
+            "name": "FCLviv",
+            "elo": 1281,
+            "points": 15
+        }
+    ],
+    "HFA": 28.6,
+    "schedule": [
+        {
+            "home": "Dnipro",
+            "away": "FCLviv"
+        },
+        {
+            "home": "Ilichivets",
+            "away": "Inhulets"
+        },
+        {
+            "home": "RukhLviv",
+            "away": "Zorya"
+        },
+        {
+            "home": "Desna",
+            "away": "OlimpikDonetsk"
+        },
+        {
+            "home": "Mynai",
+            "away": "Kolos"
+        },
+        {
+            "home": "Vorskla",
+            "away": "Shakhtar"
+        },
+        {
+            "home": "Olexandriya",
+            "away": "DynamoKyiv"
+        },
+        {
+            "home": "Desna",
+            "away": "Olexandriya"
+        },
+        {
+            "home": "DynamoKyiv",
+            "away": "Dnipro"
+        },
+        {
+            "home": "Ilichivets",
+            "away": "Shakhtar"
+        },
+        {
+            "home": "OlimpikDonetsk",
+            "away": "Kolos"
+        },
+        {
+            "home": "RukhLviv",
+            "away": "Mynai"
+        },
+        {
+            "home": "Vorskla",
+            "away": "FCLviv"
+        },
+        {
+            "home": "Zorya",
+            "away": "Inhulets"
+        },
+        {
+            "home": "Inhulets",
+            "away": "RukhLviv"
+        },
+        {
+            "home": "Kolos",
+            "away": "Dnipro"
+        },
+        {
+            "home": "FCLviv",
+            "away": "Olexandriya"
+        },
+        {
+            "home": "Ilichivets",
+            "away": "OlimpikDonetsk"
+        },
+        {
+            "home": "Mynai",
+            "away": "Desna"
+        },
+        {
+            "home": "Shakhtar",
+            "away": "DynamoKyiv"
+        },
+        {
+            "home": "Vorskla",
+            "away": "Zorya"
+        },
+        {
+            "home": "Dnipro",
+            "away": "Mynai"
+        },
+        {
+            "home": "DynamoKyiv",
+            "away": "Inhulets"
+        },
+        {
+            "home": "Kolos",
+            "away": "Vorskla"
+        },
+        {
+            "home": "FCLviv",
+            "away": "Desna"
+        },
+        {
+            "home": "Ilichivets",
+            "away": "RukhLviv"
+        },
+        {
+            "home": "Olexandriya",
+            "away": "Shakhtar"
+        },
+        {
+            "home": "Zorya",
+            "away": "OlimpikDonetsk"
+        },
+        {
+            "home": "Desna",
+            "away": "Kolos"
+        },
+        {
+            "home": "Ilichivets",
+            "away": "FCLviv"
+        },
+        {
+            "home": "OlimpikDonetsk",
+            "away": "Inhulets"
+        },
+        {
+            "home": "RukhLviv",
+            "away": "Olexandriya"
+        },
+        {
+            "home": "Shakhtar",
+            "away": "Dnipro"
+        },
+        {
+            "home": "Vorskla",
+            "away": "DynamoKyiv"
+        },
+        {
+            "home": "Zorya",
+            "away": "Mynai"
+        },
+        {
+            "home": "Dnipro",
+            "away": "Zorya"
+        },
+        {
+            "home": "DynamoKyiv",
+            "away": "Ilichivets"
+        },
+        {
+            "home": "Inhulets",
+            "away": "FCLviv"
+        },
+        {
+            "home": "Mynai",
+            "away": "Shakhtar"
+        },
+        {
+            "home": "Olexandriya",
+            "away": "Kolos"
+        },
+        {
+            "home": "RukhLviv",
+            "away": "OlimpikDonetsk"
+        },
+        {
+            "home": "Vorskla",
+            "away": "Desna"
+        },
+        {
+            "home": "Dnipro",
+            "away": "RukhLviv"
+        },
+        {
+            "home": "Kolos",
+            "away": "DynamoKyiv"
+        },
+        {
+            "home": "FCLviv",
+            "away": "OlimpikDonetsk"
+        },
+        {
+            "home": "Ilichivets",
+            "away": "Desna"
+        },
+        {
+            "home": "Mynai",
+            "away": "Vorskla"
+        },
+        {
+            "home": "Shakhtar",
+            "away": "Inhulets"
+        },
+        {
+            "home": "Zorya",
+            "away": "Olexandriya"
+        }
+    ]
+}

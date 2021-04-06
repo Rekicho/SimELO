@@ -1,0 +1,54 @@
+{
+    "teams": [
+        {
+            "name": "ManCity",
+            "elo": 2022
+        },
+        {
+            "name": "Bayern",
+            "elo": 2017
+        },
+        {
+            "name": "RealMadrid",
+            "elo": 1918
+        },
+        {
+            "name": "Liverpool",
+            "elo": 1904
+        },
+        {
+            "name": "Chelsea",
+            "elo": 1894
+        },
+        {
+            "name": "ParisSG",
+            "elo": 1867
+        },
+        {
+            "name": "Dortmund",
+            "elo": 1809
+        },
+        {
+            "name": "Porto",
+            "elo": 1800
+        }
+    ],
+    "schedule": [
+        {
+            "home": "Bayern",
+            "away": "ParisSG"
+        },
+        {
+            "home": "ManCity",
+            "away": "Dortmund"
+        },
+        {
+            "home": "RealMadrid",
+            "away": "Liverpool"
+        },
+        {
+            "home": "Porto",
+            "away": "Chelsea"
+        }
+    ]
+}

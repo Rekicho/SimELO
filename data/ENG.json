@@ -1,0 +1,459 @@
+{
+    "teams": [
+        {
+            "name": "ManCity",
+            "elo": 2022,
+            "points": 71
+        },
+        {
+            "name": "ManUnited",
+            "elo": 1919,
+            "points": 57
+        },
+        {
+            "name": "Liverpool",
+            "elo": 1904,
+            "points": 46
+        },
+        {
+            "name": "Chelsea",
+            "elo": 1894,
+            "points": 51
+        },
+        {
+            "name": "Arsenal",
+            "elo": 1838,
+            "points": 42
+        },
+        {
+            "name": "Tottenham",
+            "elo": 1825,
+            "points": 48
+        },
+        {
+            "name": "Leicester",
+            "elo": 1815,
+            "points": 56
+        },
+        {
+            "name": "WestHam",
+            "elo": 1787,
+            "points": 49
+        },
+        {
+            "name": "Everton",
+            "elo": 1763,
+            "points": 46
+        },
+        {
+            "name": "Wolves",
+            "elo": 1759,
+            "points": 35
+        },
+        {
+            "name": "Burnley",
+            "elo": 1729,
+            "points": 33
+        },
+        {
+            "name": "AstonVilla",
+            "elo": 1713,
+            "points": 41
+        },
+        {
+            "name": "Leeds",
+            "elo": 1706,
+            "points": 39
+        },
+        {
+            "name": "Southampton",
+            "elo": 1702,
+            "points": 33
+        },
+        {
+            "name": "Brighton",
+            "elo": 1697,
+            "points": 32
+        },
+        {
+            "name": "CrystalPalace",
+            "elo": 1695,
+            "points": 37
+        },
+        {
+            "name": "Newcastle",
+            "elo": 1658,
+            "points": 28
+        },
+        {
+            "name": "Fulham",
+            "elo": 1644,
+            "points": 26
+        },
+        {
+            "name": "SheffieldUnited",
+            "elo": 1613,
+            "points": 14
+        },
+        {
+            "name": "WestBrom",
+            "elo": 1579,
+            "points": 18
+        }
+    ],
+    "HFA": 26.0,
+    "schedule": [
+        {
+            "home": "Chelsea",
+            "away": "WestBrom"
+        },
+        {
+            "home": "Leeds",
+            "away": "SheffieldUnited"
+        },
+        {
+            "home": "Leicester",
+            "away": "ManCity"
+        },
+        {
+            "home": "Arsenal",
+            "away": "Liverpool"
+        },
+        {
+            "home": "Southampton",
+            "away": "Burnley"
+        },
+        {
+            "home": "Newcastle",
+            "away": "Tottenham"
+        },
+        {
+            "home": "AstonVilla",
+            "away": "Fulham"
+        },
+        {
+            "home": "ManUnited",
+            "away": "Brighton"
+        },
+        {
+            "home": "Everton",
+            "away": "CrystalPalace"
+        },
+        {
+            "home": "Wolves",
+            "away": "WestHam"
+        },
+        {
+            "home": "Fulham",
+            "away": "Wolves"
+        },
+        {
+            "home": "ManCity",
+            "away": "Leeds"
+        },
+        {
+            "home": "Liverpool",
+            "away": "AstonVilla"
+        },
+        {
+            "home": "CrystalPalace",
+            "away": "Chelsea"
+        },
+        {
+            "home": "Burnley",
+            "away": "Newcastle"
+        },
+        {
+            "home": "WestHam",
+            "away": "Leicester"
+        },
+        {
+            "home": "Tottenham",
+            "away": "ManUnited"
+        },
+        {
+            "home": "SheffieldUnited",
+            "away": "Arsenal"
+        },
+        {
+            "home": "WestBrom",
+            "away": "Southampton"
+        },
+        {
+            "home": "Brighton",
+            "away": "Everton"
+        },
+        {
+            "home": "Arsenal",
+            "away": "Fulham"
+        },
+        {
+            "home": "AstonVilla",
+            "away": "ManCity"
+        },
+        {
+            "home": "Chelsea",
+            "away": "Brighton"
+        },
+        {
+            "home": "Everton",
+            "away": "Tottenham"
+        },
+        {
+            "home": "Leeds",
+            "away": "Liverpool"
+        },
+        {
+            "home": "Leicester",
+            "away": "WestBrom"
+        },
+        {
+            "home": "ManUnited",
+            "away": "Burnley"
+        },
+        {
+            "home": "Newcastle",
+            "away": "WestHam"
+        },
+        {
+            "home": "Southampton",
+            "away": "CrystalPalace"
+        },
+        {
+            "home": "Wolves",
+            "away": "SheffieldUnited"
+        },
+        {
+            "home": "Arsenal",
+            "away": "Everton"
+        },
+        {
+            "home": "AstonVilla",
+            "away": "WestBrom"
+        },
+        {
+            "home": "Leeds",
+            "away": "ManUnited"
+        },
+        {
+            "home": "Leicester",
+            "away": "CrystalPalace"
+        },
+        {
+            "home": "Liverpool",
+            "away": "Newcastle"
+        },
+        {
+            "home": "SheffieldUnited",
+            "away": "Brighton"
+        },
+        {
+            "home": "WestHam",
+            "away": "Chelsea"
+        },
+        {
+            "home": "Wolves",
+            "away": "Burnley"
+        },
+        {
+            "home": "Brighton",
+            "away": "Leeds"
+        },
+        {
+            "home": "Burnley",
+            "away": "WestHam"
+        },
+        {
+            "home": "Chelsea",
+            "away": "Fulham"
+        },
+        {
+            "home": "CrystalPalace",
+            "away": "ManCity"
+        },
+        {
+            "home": "Everton",
+            "away": "AstonVilla"
+        },
+        {
+            "home": "ManUnited",
+            "away": "Liverpool"
+        },
+        {
+            "home": "Newcastle",
+            "away": "Arsenal"
+        },
+        {
+            "home": "Southampton",
+            "away": "Leicester"
+        },
+        {
+            "home": "Tottenham",
+            "away": "SheffieldUnited"
+        },
+        {
+            "home": "WestBrom",
+            "away": "Wolves"
+        },
+        {
+            "home": "Arsenal",
+            "away": "WestBrom"
+        },
+        {
+            "home": "AstonVilla",
+            "away": "ManUnited"
+        },
+        {
+            "home": "Fulham",
+            "away": "Burnley"
+        },
+        {
+            "home": "Leeds",
+            "away": "Tottenham"
+        },
+        {
+            "home": "Leicester",
+            "away": "Newcastle"
+        },
+        {
+            "home": "Liverpool",
+            "away": "Southampton"
+        },
+        {
+            "home": "ManCity",
+            "away": "Chelsea"
+        },
+        {
+            "home": "SheffieldUnited",
+            "away": "CrystalPalace"
+        },
+        {
+            "home": "WestHam",
+            "away": "Everton"
+        },
+        {
+            "home": "Wolves",
+            "away": "Brighton"
+        },
+        {
+            "home": "Brighton",
+            "away": "WestHam"
+        },
+        {
+            "home": "Burnley",
+            "away": "Leeds"
+        },
+        {
+            "home": "Everton",
+            "away": "SheffieldUnited"
+        },
+        {
+            "home": "CrystalPalace",
+            "away": "AstonVilla"
+        },
+        {
+            "home": "ManUnited",
+            "away": "Leicester"
+        },
+        {
+            "home": "WestBrom",
+            "away": "Liverpool"
+        },
+        {
+            "home": "Chelsea",
+            "away": "Arsenal"
+        },
+        {
+            "home": "Newcastle",
+            "away": "ManCity"
+        },
+        {
+            "home": "Southampton",
+            "away": "Fulham"
+        },
+        {
+            "home": "Tottenham",
+            "away": "Wolves"
+        },
+        {
+            "home": "Brighton",
+            "away": "ManCity"
+        },
+        {
+            "home": "Burnley",
+            "away": "Liverpool"
+        },
+        {
+            "home": "Chelsea",
+            "away": "Leicester"
+        },
+        {
+            "home": "CrystalPalace",
+            "away": "Arsenal"
+        },
+        {
+            "home": "Everton",
+            "away": "Wolves"
+        },
+        {
+            "home": "ManUnited",
+            "away": "Fulham"
+        },
+        {
+            "home": "Newcastle",
+            "away": "SheffieldUnited"
+        },
+        {
+            "home": "Southampton",
+            "away": "Leeds"
+        },
+        {
+            "home": "Tottenham",
+            "away": "AstonVilla"
+        },
+        {
+            "home": "WestBrom",
+            "away": "WestHam"
+        },
+        {
+            "home": "Arsenal",
+            "away": "Brighton"
+        },
+        {
+            "home": "AstonVilla",
+            "away": "Chelsea"
+        },
+        {
+            "home": "Fulham",
+            "away": "Newcastle"
+        },
+        {
+            "home": "Leeds",
+            "away": "WestBrom"
+        },
+        {
+            "home": "Leicester",
+            "away": "Tottenham"
+        },
+        {
+            "home": "Liverpool",
+            "away": "CrystalPalace"
+        },
+        {
+            "home": "ManCity",
+            "away": "Everton"
+        },
+        {
+            "home": "SheffieldUnited",
+            "away": "Burnley"
+        },
+        {
+            "home": "WestHam",
+            "away": "Southampton"
+        },
+        {
+            "home": "Wolves",
+            "away": "ManUnited"
+        }
+    ]
+}

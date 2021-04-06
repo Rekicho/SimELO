@@ -1,0 +1,385 @@
+{
+    "teams": [
+        {
+            "name": "Bayern",
+            "elo": 2017,
+            "points": 61
+        },
+        {
+            "name": "RBLeipzig",
+            "elo": 1850,
+            "points": 57
+        },
+        {
+            "name": "Dortmund",
+            "elo": 1809,
+            "points": 43
+        },
+        {
+            "name": "Wolfsburg",
+            "elo": 1782,
+            "points": 51
+        },
+        {
+            "name": "Frankfurt",
+            "elo": 1778,
+            "points": 47
+        },
+        {
+            "name": "Gladbach",
+            "elo": 1739,
+            "points": 36
+        },
+        {
+            "name": "Leverkusen",
+            "elo": 1730,
+            "points": 40
+        },
+        {
+            "name": "Freiburg",
+            "elo": 1687,
+            "points": 37
+        },
+        {
+            "name": "Hoffenheim",
+            "elo": 1673,
+            "points": 30
+        },
+        {
+            "name": "UnionBerlin",
+            "elo": 1664,
+            "points": 38
+        },
+        {
+            "name": "Stuttgart",
+            "elo": 1661,
+            "points": 36
+        },
+        {
+            "name": "Werder",
+            "elo": 1646,
+            "points": 30
+        },
+        {
+            "name": "Mainz",
+            "elo": 1623,
+            "points": 24
+        },
+        {
+            "name": "Hertha",
+            "elo": 1623,
+            "points": 24
+        },
+        {
+            "name": "Augsburg",
+            "elo": 1609,
+            "points": 29
+        },
+        {
+            "name": "Koeln",
+            "elo": 1596,
+            "points": 23
+        },
+        {
+            "name": "Bielefeld",
+            "elo": 1575,
+            "points": 22
+        },
+        {
+            "name": "Schalke",
+            "elo": 1526,
+            "points": 10
+        }
+    ],
+    "HFA": 40.4,
+    "schedule": [
+        {
+            "home": "Augsburg",
+            "away": "Hoffenheim"
+        },
+        {
+            "home": "Dortmund",
+            "away": "Frankfurt"
+        },
+        {
+            "home": "Leverkusen",
+            "away": "Schalke"
+        },
+        {
+            "home": "Mainz",
+            "away": "Bielefeld"
+        },
+        {
+            "home": "Wolfsburg",
+            "away": "Koeln"
+        },
+        {
+            "home": "RBLeipzig",
+            "away": "Bayern"
+        },
+        {
+            "home": "Gladbach",
+            "away": "Freiburg"
+        },
+        {
+            "home": "Stuttgart",
+            "away": "Werder"
+        },
+        {
+            "home": "UnionBerlin",
+            "away": "Hertha"
+        },
+        {
+            "home": "Bielefeld",
+            "away": "Freiburg"
+        },
+        {
+            "home": "Bayern",
+            "away": "UnionBerlin"
+        },
+        {
+            "home": "Werder",
+            "away": "RBLeipzig"
+        },
+        {
+            "home": "Frankfurt",
+            "away": "Wolfsburg"
+        },
+        {
+            "home": "Hertha",
+            "away": "Gladbach"
+        },
+        {
+            "home": "Stuttgart",
+            "away": "Dortmund"
+        },
+        {
+            "home": "Schalke",
+            "away": "Augsburg"
+        },
+        {
+            "home": "Koeln",
+            "away": "Mainz"
+        },
+        {
+            "home": "Hoffenheim",
+            "away": "Leverkusen"
+        },
+        {
+            "home": "RBLeipzig",
+            "away": "Hoffenheim"
+        },
+        {
+            "home": "Augsburg",
+            "away": "Bielefeld"
+        },
+        {
+            "home": "Freiburg",
+            "away": "Schalke"
+        },
+        {
+            "home": "Gladbach",
+            "away": "Frankfurt"
+        },
+        {
+            "home": "UnionBerlin",
+            "away": "Stuttgart"
+        },
+        {
+            "home": "Wolfsburg",
+            "away": "Bayern"
+        },
+        {
+            "home": "Leverkusen",
+            "away": "Koeln"
+        },
+        {
+            "home": "Dortmund",
+            "away": "Werder"
+        },
+        {
+            "home": "Mainz",
+            "away": "Hertha"
+        },
+        {
+            "home": "Koeln",
+            "away": "RBLeipzig"
+        },
+        {
+            "home": "Bayern",
+            "away": "Leverkusen"
+        },
+        {
+            "home": "Bielefeld",
+            "away": "Schalke"
+        },
+        {
+            "home": "Frankfurt",
+            "away": "Augsburg"
+        },
+        {
+            "home": "Hertha",
+            "away": "Freiburg"
+        },
+        {
+            "home": "Werder",
+            "away": "Mainz"
+        },
+        {
+            "home": "Dortmund",
+            "away": "UnionBerlin"
+        },
+        {
+            "home": "Hoffenheim",
+            "away": "Gladbach"
+        },
+        {
+            "home": "Stuttgart",
+            "away": "Wolfsburg"
+        },
+        {
+            "home": "Augsburg",
+            "away": "Koeln"
+        },
+        {
+            "home": "Freiburg",
+            "away": "Hoffenheim"
+        },
+        {
+            "home": "Mainz",
+            "away": "Bayern"
+        },
+        {
+            "home": "Schalke",
+            "away": "Hertha"
+        },
+        {
+            "home": "UnionBerlin",
+            "away": "Werder"
+        },
+        {
+            "home": "Wolfsburg",
+            "away": "Dortmund"
+        },
+        {
+            "home": "Leverkusen",
+            "away": "Frankfurt"
+        },
+        {
+            "home": "RBLeipzig",
+            "away": "Stuttgart"
+        },
+        {
+            "home": "Gladbach",
+            "away": "Bielefeld"
+        },
+        {
+            "home": "Hertha",
+            "away": "Bielefeld"
+        },
+        {
+            "home": "Werder",
+            "away": "Leverkusen"
+        },
+        {
+            "home": "Dortmund",
+            "away": "RBLeipzig"
+        },
+        {
+            "home": "Hoffenheim",
+            "away": "Schalke"
+        },
+        {
+            "home": "Wolfsburg",
+            "away": "UnionBerlin"
+        },
+        {
+            "home": "Bayern",
+            "away": "Gladbach"
+        },
+        {
+            "home": "Koeln",
+            "away": "Freiburg"
+        },
+        {
+            "home": "Frankfurt",
+            "away": "Mainz"
+        },
+        {
+            "home": "Stuttgart",
+            "away": "Augsburg"
+        },
+        {
+            "home": "Augsburg",
+            "away": "Werder"
+        },
+        {
+            "home": "Bielefeld",
+            "away": "Hoffenheim"
+        },
+        {
+            "home": "Freiburg",
+            "away": "Bayern"
+        },
+        {
+            "home": "Hertha",
+            "away": "Koeln"
+        },
+        {
+            "home": "Leverkusen",
+            "away": "UnionBerlin"
+        },
+        {
+            "home": "Mainz",
+            "away": "Dortmund"
+        },
+        {
+            "home": "Gladbach",
+            "away": "Stuttgart"
+        },
+        {
+            "home": "RBLeipzig",
+            "away": "Wolfsburg"
+        },
+        {
+            "home": "Schalke",
+            "away": "Frankfurt"
+        },
+        {
+            "home": "Bayern",
+            "away": "Augsburg"
+        },
+        {
+            "home": "Werder",
+            "away": "Gladbach"
+        },
+        {
+            "home": "Dortmund",
+            "away": "Leverkusen"
+        },
+        {
+            "home": "Koeln",
+            "away": "Schalke"
+        },
+        {
+            "home": "Frankfurt",
+            "away": "Freiburg"
+        },
+        {
+            "home": "Hoffenheim",
+            "away": "Hertha"
+        },
+        {
+            "home": "Stuttgart",
+            "away": "Bielefeld"
+        },
+        {
+            "home": "UnionBerlin",
+            "away": "RBLeipzig"
+        },
+        {
+            "home": "Wolfsburg",
+            "away": "Mainz"
+        }
+    ]
+}

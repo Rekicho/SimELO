@@ -1,0 +1,515 @@
+{
+    "teams": [
+        {
+            "name": "Inter",
+            "elo": 1889,
+            "points": 65
+        },
+        {
+            "name": "Juventus",
+            "elo": 1844,
+            "points": 55
+        },
+        {
+            "name": "Atalanta",
+            "elo": 1822,
+            "points": 55
+        },
+        {
+            "name": "Milan",
+            "elo": 1771,
+            "points": 59
+        },
+        {
+            "name": "Napoli",
+            "elo": 1768,
+            "points": 53
+        },
+        {
+            "name": "Roma",
+            "elo": 1760,
+            "points": 50
+        },
+        {
+            "name": "Lazio",
+            "elo": 1751,
+            "points": 49
+        },
+        {
+            "name": "Sassuolo",
+            "elo": 1637,
+            "points": 39
+        },
+        {
+            "name": "Udinese",
+            "elo": 1615,
+            "points": 33
+        },
+        {
+            "name": "Fiorentina",
+            "elo": 1615,
+            "points": 29
+        },
+        {
+            "name": "Bologna",
+            "elo": 1611,
+            "points": 34
+        },
+        {
+            "name": "Sampdoria",
+            "elo": 1609,
+            "points": 35
+        },
+        {
+            "name": "Verona",
+            "elo": 1603,
+            "points": 38
+        },
+        {
+            "name": "Genoa",
+            "elo": 1590,
+            "points": 31
+        },
+        {
+            "name": "Torino",
+            "elo": 1574,
+            "points": 23
+        },
+        {
+            "name": "Cagliari",
+            "elo": 1550,
+            "points": 22
+        },
+        {
+            "name": "Benevento",
+            "elo": 1547,
+            "points": 29
+        },
+        {
+            "name": "Parma",
+            "elo": 1530,
+            "points": 19
+        },
+        {
+            "name": "Spezia",
+            "elo": 1520,
+            "points": 29
+        },
+        {
+            "name": "Crotone",
+            "elo": 1473,
+            "points": 15
+        }
+    ],
+    "HFA": 31.3,
+    "schedule": [
+        {
+            "home": "Milan",
+            "away": "Sampdoria"
+        },
+        {
+            "home": "Atalanta",
+            "away": "Udinese"
+        },
+        {
+            "home": "Benevento",
+            "away": "Parma"
+        },
+        {
+            "home": "Cagliari",
+            "away": "Verona"
+        },
+        {
+            "home": "Genoa",
+            "away": "Fiorentina"
+        },
+        {
+            "home": "Lazio",
+            "away": "Spezia"
+        },
+        {
+            "home": "Napoli",
+            "away": "Crotone"
+        },
+        {
+            "home": "Sassuolo",
+            "away": "Roma"
+        },
+        {
+            "home": "Torino",
+            "away": "Juventus"
+        },
+        {
+            "home": "Bologna",
+            "away": "Inter"
+        },
+        {
+            "home": "Inter",
+            "away": "Sassuolo"
+        },
+        {
+            "home": "Juventus",
+            "away": "Napoli"
+        },
+        {
+            "home": "Spezia",
+            "away": "Crotone"
+        },
+        {
+            "home": "Parma",
+            "away": "Milan"
+        },
+        {
+            "home": "Udinese",
+            "away": "Torino"
+        },
+        {
+            "home": "Inter",
+            "away": "Cagliari"
+        },
+        {
+            "home": "Juventus",
+            "away": "Genoa"
+        },
+        {
+            "home": "Sampdoria",
+            "away": "Napoli"
+        },
+        {
+            "home": "Verona",
+            "away": "Lazio"
+        },
+        {
+            "home": "Roma",
+            "away": "Bologna"
+        },
+        {
+            "home": "Fiorentina",
+            "away": "Atalanta"
+        },
+        {
+            "home": "Benevento",
+            "away": "Sassuolo"
+        },
+        {
+            "home": "Crotone",
+            "away": "Udinese"
+        },
+        {
+            "home": "Sampdoria",
+            "away": "Verona"
+        },
+        {
+            "home": "Sassuolo",
+            "away": "Fiorentina"
+        },
+        {
+            "home": "Cagliari",
+            "away": "Parma"
+        },
+        {
+            "home": "Milan",
+            "away": "Genoa"
+        },
+        {
+            "home": "Atalanta",
+            "away": "Juventus"
+        },
+        {
+            "home": "Bologna",
+            "away": "Spezia"
+        },
+        {
+            "home": "Lazio",
+            "away": "Benevento"
+        },
+        {
+            "home": "Torino",
+            "away": "Roma"
+        },
+        {
+            "home": "Napoli",
+            "away": "Inter"
+        },
+        {
+            "home": "Verona",
+            "away": "Fiorentina"
+        },
+        {
+            "home": "Milan",
+            "away": "Sassuolo"
+        },
+        {
+            "home": "Bologna",
+            "away": "Torino"
+        },
+        {
+            "home": "Crotone",
+            "away": "Sampdoria"
+        },
+        {
+            "home": "Genoa",
+            "away": "Benevento"
+        },
+        {
+            "home": "Juventus",
+            "away": "Parma"
+        },
+        {
+            "home": "Spezia",
+            "away": "Inter"
+        },
+        {
+            "home": "Udinese",
+            "away": "Cagliari"
+        },
+        {
+            "home": "Roma",
+            "away": "Atalanta"
+        },
+        {
+            "home": "Napoli",
+            "away": "Lazio"
+        },
+        {
+            "home": "Genoa",
+            "away": "Spezia"
+        },
+        {
+            "home": "Parma",
+            "away": "Crotone"
+        },
+        {
+            "home": "Sassuolo",
+            "away": "Sampdoria"
+        },
+        {
+            "home": "Benevento",
+            "away": "Udinese"
+        },
+        {
+            "home": "Fiorentina",
+            "away": "Juventus"
+        },
+        {
+            "home": "Inter",
+            "away": "Verona"
+        },
+        {
+            "home": "Cagliari",
+            "away": "Roma"
+        },
+        {
+            "home": "Atalanta",
+            "away": "Bologna"
+        },
+        {
+            "home": "Torino",
+            "away": "Napoli"
+        },
+        {
+            "home": "Lazio",
+            "away": "Milan"
+        },
+        {
+            "home": "Verona",
+            "away": "Spezia"
+        },
+        {
+            "home": "Crotone",
+            "away": "Inter"
+        },
+        {
+            "home": "Milan",
+            "away": "Benevento"
+        },
+        {
+            "home": "Lazio",
+            "away": "Genoa"
+        },
+        {
+            "home": "Bologna",
+            "away": "Fiorentina"
+        },
+        {
+            "home": "Napoli",
+            "away": "Cagliari"
+        },
+        {
+            "home": "Sassuolo",
+            "away": "Atalanta"
+        },
+        {
+            "home": "Udinese",
+            "away": "Juventus"
+        },
+        {
+            "home": "Sampdoria",
+            "away": "Roma"
+        },
+        {
+            "home": "Torino",
+            "away": "Parma"
+        },
+        {
+            "home": "Roma",
+            "away": "Crotone"
+        },
+        {
+            "home": "Benevento",
+            "away": "Cagliari"
+        },
+        {
+            "home": "Fiorentina",
+            "away": "Lazio"
+        },
+        {
+            "home": "Genoa",
+            "away": "Sassuolo"
+        },
+        {
+            "home": "Inter",
+            "away": "Sampdoria"
+        },
+        {
+            "home": "Parma",
+            "away": "Atalanta"
+        },
+        {
+            "home": "Spezia",
+            "away": "Napoli"
+        },
+        {
+            "home": "Udinese",
+            "away": "Bologna"
+        },
+        {
+            "home": "Verona",
+            "away": "Torino"
+        },
+        {
+            "home": "Juventus",
+            "away": "Milan"
+        },
+        {
+            "home": "Atalanta",
+            "away": "Benevento"
+        },
+        {
+            "home": "Bologna",
+            "away": "Genoa"
+        },
+        {
+            "home": "Cagliari",
+            "away": "Fiorentina"
+        },
+        {
+            "home": "Crotone",
+            "away": "Verona"
+        },
+        {
+            "home": "Lazio",
+            "away": "Parma"
+        },
+        {
+            "home": "Napoli",
+            "away": "Udinese"
+        },
+        {
+            "home": "Sampdoria",
+            "away": "Spezia"
+        },
+        {
+            "home": "Sassuolo",
+            "away": "Juventus"
+        },
+        {
+            "home": "Torino",
+            "away": "Milan"
+        },
+        {
+            "home": "Inter",
+            "away": "Roma"
+        },
+        {
+            "home": "Milan",
+            "away": "Cagliari"
+        },
+        {
+            "home": "Roma",
+            "away": "Lazio"
+        },
+        {
+            "home": "Benevento",
+            "away": "Crotone"
+        },
+        {
+            "home": "Fiorentina",
+            "away": "Napoli"
+        },
+        {
+            "home": "Genoa",
+            "away": "Atalanta"
+        },
+        {
+            "home": "Parma",
+            "away": "Sassuolo"
+        },
+        {
+            "home": "Spezia",
+            "away": "Torino"
+        },
+        {
+            "home": "Udinese",
+            "away": "Sampdoria"
+        },
+        {
+            "home": "Verona",
+            "away": "Bologna"
+        },
+        {
+            "home": "Juventus",
+            "away": "Inter"
+        },
+        {
+            "home": "Atalanta",
+            "away": "Milan"
+        },
+        {
+            "home": "Bologna",
+            "away": "Juventus"
+        },
+        {
+            "home": "Cagliari",
+            "away": "Genoa"
+        },
+        {
+            "home": "Crotone",
+            "away": "Fiorentina"
+        },
+        {
+            "home": "Inter",
+            "away": "Udinese"
+        },
+        {
+            "home": "Napoli",
+            "away": "Verona"
+        },
+        {
+            "home": "Sampdoria",
+            "away": "Parma"
+        },
+        {
+            "home": "Sassuolo",
+            "away": "Lazio"
+        },
+        {
+            "home": "Spezia",
+            "away": "Roma"
+        },
+        {
+            "home": "Torino",
+            "away": "Benevento"
+        }
+    ]
+}

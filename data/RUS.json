@@ -1,0 +1,311 @@
+{
+    "teams": [
+        {
+            "name": "Zenit",
+            "elo": 1649,
+            "points": 48
+        },
+        {
+            "name": "LokMoskva",
+            "elo": 1561,
+            "points": 40
+        },
+        {
+            "name": "SpartakMoskva",
+            "elo": 1547,
+            "points": 44
+        },
+        {
+            "name": "CSKAMoskva",
+            "elo": 1532,
+            "points": 40
+        },
+        {
+            "name": "FCKrasnodar",
+            "elo": 1529,
+            "points": 34
+        },
+        {
+            "name": "Sochi",
+            "elo": 1499,
+            "points": 40
+        },
+        {
+            "name": "DynamoMoskva",
+            "elo": 1497,
+            "points": 39
+        },
+        {
+            "name": "Rostov",
+            "elo": 1487,
+            "points": 37
+        },
+        {
+            "name": "RubinKazan",
+            "elo": 1476,
+            "points": 37
+        },
+        {
+            "name": "TerekGrozny",
+            "elo": 1429,
+            "points": 29
+        },
+        {
+            "name": "FCKhimki",
+            "elo": 1422,
+            "points": 35
+        },
+        {
+            "name": "Sverdlovsk",
+            "elo": 1414,
+            "points": 26
+        },
+        {
+            "name": "Tula",
+            "elo": 1377,
+            "points": 17
+        },
+        {
+            "name": "Ufa",
+            "elo": 1363,
+            "points": 14
+        },
+        {
+            "name": "RotorVolgograd",
+            "elo": 1324,
+            "points": 18
+        },
+        {
+            "name": "Tambov",
+            "elo": 1305,
+            "points": 13
+        }
+    ],
+    "HFA": 51.0,
+    "schedule": [
+        {
+            "home": "RotorVolgograd",
+            "away": "LokMoskva"
+        },
+        {
+            "home": "RubinKazan",
+            "away": "Sochi"
+        },
+        {
+            "home": "FCKrasnodar",
+            "away": "TerekGrozny"
+        },
+        {
+            "home": "DynamoMoskva",
+            "away": "Ufa"
+        },
+        {
+            "home": "Sverdlovsk",
+            "away": "Tula"
+        },
+        {
+            "home": "Tambov",
+            "away": "CSKAMoskva"
+        },
+        {
+            "home": "Rostov",
+            "away": "SpartakMoskva"
+        },
+        {
+            "home": "Zenit",
+            "away": "FCKhimki"
+        },
+        {
+            "home": "FCKhimki",
+            "away": "Tambov"
+        },
+        {
+            "home": "Ufa",
+            "away": "TerekGrozny"
+        },
+        {
+            "home": "Rostov",
+            "away": "RubinKazan"
+        },
+        {
+            "home": "Tula",
+            "away": "FCKrasnodar"
+        },
+        {
+            "home": "DynamoMoskva",
+            "away": "Sverdlovsk"
+        },
+        {
+            "home": "Sochi",
+            "away": "Zenit"
+        },
+        {
+            "home": "LokMoskva",
+            "away": "SpartakMoskva"
+        },
+        {
+            "home": "CSKAMoskva",
+            "away": "RotorVolgograd"
+        },
+        {
+            "home": "TerekGrozny",
+            "away": "FCKhimki"
+        },
+        {
+            "home": "LokMoskva",
+            "away": "Rostov"
+        },
+        {
+            "home": "RotorVolgograd",
+            "away": "DynamoMoskva"
+        },
+        {
+            "home": "FCKrasnodar",
+            "away": "Zenit"
+        },
+        {
+            "home": "Sverdlovsk",
+            "away": "RubinKazan"
+        },
+        {
+            "home": "Tula",
+            "away": "Tambov"
+        },
+        {
+            "home": "Sochi",
+            "away": "CSKAMoskva"
+        },
+        {
+            "home": "SpartakMoskva",
+            "away": "Ufa"
+        },
+        {
+            "home": "Sverdlovsk",
+            "away": "TerekGrozny"
+        },
+        {
+            "home": "Zenit",
+            "away": "RotorVolgograd"
+        },
+        {
+            "home": "DynamoMoskva",
+            "away": "FCKhimki"
+        },
+        {
+            "home": "Tambov",
+            "away": "LokMoskva"
+        },
+        {
+            "home": "Ufa",
+            "away": "Sochi"
+        },
+        {
+            "home": "Rostov",
+            "away": "Tula"
+        },
+        {
+            "home": "SpartakMoskva",
+            "away": "CSKAMoskva"
+        },
+        {
+            "home": "RubinKazan",
+            "away": "FCKrasnodar"
+        },
+        {
+            "home": "FCKhimki",
+            "away": "Sverdlovsk"
+        },
+        {
+            "home": "RotorVolgograd",
+            "away": "TerekGrozny"
+        },
+        {
+            "home": "CSKAMoskva",
+            "away": "Ufa"
+        },
+        {
+            "home": "FCKrasnodar",
+            "away": "Sochi"
+        },
+        {
+            "home": "RubinKazan",
+            "away": "DynamoMoskva"
+        },
+        {
+            "home": "Rostov",
+            "away": "Tambov"
+        },
+        {
+            "home": "Zenit",
+            "away": "LokMoskva"
+        },
+        {
+            "home": "Tula",
+            "away": "SpartakMoskva"
+        },
+        {
+            "home": "TerekGrozny",
+            "away": "Tambov"
+        },
+        {
+            "home": "Sochi",
+            "away": "RotorVolgograd"
+        },
+        {
+            "home": "Ufa",
+            "away": "Zenit"
+        },
+        {
+            "home": "Tula",
+            "away": "RubinKazan"
+        },
+        {
+            "home": "LokMoskva",
+            "away": "DynamoMoskva"
+        },
+        {
+            "home": "CSKAMoskva",
+            "away": "FCKrasnodar"
+        },
+        {
+            "home": "Sverdlovsk",
+            "away": "Rostov"
+        },
+        {
+            "home": "SpartakMoskva",
+            "away": "FCKhimki"
+        },
+        {
+            "home": "TerekGrozny",
+            "away": "SpartakMoskva"
+        },
+        {
+            "home": "DynamoMoskva",
+            "away": "CSKAMoskva"
+        },
+        {
+            "home": "Rostov",
+            "away": "FCKrasnodar"
+        },
+        {
+            "home": "RubinKazan",
+            "away": "RotorVolgograd"
+        },
+        {
+            "home": "FCKhimki",
+            "away": "Sochi"
+        },
+        {
+            "home": "LokMoskva",
+            "away": "Sverdlovsk"
+        },
+        {
+            "home": "Tambov",
+            "away": "Zenit"
+        },
+        {
+            "home": "Ufa",
+            "away": "Tula"
+        }
+    ]
+}

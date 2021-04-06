@@ -1,0 +1,353 @@
+{
+    "teams": [
+        {
+            "name": "Ajax",
+            "elo": 1811,
+            "points": 66
+        },
+        {
+            "name": "Alkmaar",
+            "elo": 1651,
+            "points": 55
+        },
+        {
+            "name": "PSV",
+            "elo": 1649,
+            "points": 55
+        },
+        {
+            "name": "Feyenoord",
+            "elo": 1582,
+            "points": 48
+        },
+        {
+            "name": "Vitesse",
+            "elo": 1530,
+            "points": 52
+        },
+        {
+            "name": "Utrecht",
+            "elo": 1513,
+            "points": 40
+        },
+        {
+            "name": "Groningen",
+            "elo": 1466,
+            "points": 43
+        },
+        {
+            "name": "Heracles",
+            "elo": 1433,
+            "points": 36
+        },
+        {
+            "name": "Heerenveen",
+            "elo": 1425,
+            "points": 34
+        },
+        {
+            "name": "Twente",
+            "elo": 1425,
+            "points": 37
+        },
+        {
+            "name": "SpartaRotterdam",
+            "elo": 1396,
+            "points": 31
+        },
+        {
+            "name": "Zwolle",
+            "elo": 1396,
+            "points": 29
+        },
+        {
+            "name": "WillemII",
+            "elo": 1391,
+            "points": 22
+        },
+        {
+            "name": "Sittard",
+            "elo": 1385,
+            "points": 34
+        },
+        {
+            "name": "Venlo",
+            "elo": 1332,
+            "points": 22
+        },
+        {
+            "name": "Waalwijk",
+            "elo": 1329,
+            "points": 26
+        },
+        {
+            "name": "Emmen",
+            "elo": 1329,
+            "points": 15
+        },
+        {
+            "name": "DenHaag",
+            "elo": 1307,
+            "points": 15
+        }
+    ],
+    "HFA": 69.5,
+    "schedule": [
+        {
+            "home": "Venlo",
+            "away": "Groningen"
+        },
+        {
+            "home": "Twente",
+            "away": "Vitesse"
+        },
+        {
+            "home": "WillemII",
+            "away": "Alkmaar"
+        },
+        {
+            "home": "SpartaRotterdam",
+            "away": "Zwolle"
+        },
+        {
+            "home": "Feyenoord",
+            "away": "Sittard"
+        },
+        {
+            "home": "DenHaag",
+            "away": "Utrecht"
+        },
+        {
+            "home": "PSV",
+            "away": "Heracles"
+        },
+        {
+            "home": "Emmen",
+            "away": "Waalwijk"
+        },
+        {
+            "home": "Heerenveen",
+            "away": "Ajax"
+        },
+        {
+            "home": "Vitesse",
+            "away": "DenHaag"
+        },
+        {
+            "home": "Heracles",
+            "away": "WillemII"
+        },
+        {
+            "home": "Alkmaar",
+            "away": "SpartaRotterdam"
+        },
+        {
+            "home": "Sittard",
+            "away": "Emmen"
+        },
+        {
+            "home": "Zwolle",
+            "away": "Twente"
+        },
+        {
+            "home": "Utrecht",
+            "away": "Feyenoord"
+        },
+        {
+            "home": "Groningen",
+            "away": "Heerenveen"
+        },
+        {
+            "home": "Venlo",
+            "away": "PSV"
+        },
+        {
+            "home": "Waalwijk",
+            "away": "Ajax"
+        },
+        {
+            "home": "Ajax",
+            "away": "Utrecht"
+        },
+        {
+            "home": "WillemII",
+            "away": "Waalwijk"
+        },
+        {
+            "home": "Heerenveen",
+            "away": "Zwolle"
+        },
+        {
+            "home": "SpartaRotterdam",
+            "away": "Venlo"
+        },
+        {
+            "home": "PSV",
+            "away": "Groningen"
+        },
+        {
+            "home": "Emmen",
+            "away": "Heracles"
+        },
+        {
+            "home": "DenHaag",
+            "away": "Sittard"
+        },
+        {
+            "home": "Feyenoord",
+            "away": "Vitesse"
+        },
+        {
+            "home": "Twente",
+            "away": "Utrecht"
+        },
+        {
+            "home": "Ajax",
+            "away": "Alkmaar"
+        },
+        {
+            "home": "Heracles",
+            "away": "Venlo"
+        },
+        {
+            "home": "Sittard",
+            "away": "Twente"
+        },
+        {
+            "home": "Vitesse",
+            "away": "Zwolle"
+        },
+        {
+            "home": "Waalwijk",
+            "away": "Alkmaar"
+        },
+        {
+            "home": "Utrecht",
+            "away": "WillemII"
+        },
+        {
+            "home": "DenHaag",
+            "away": "Feyenoord"
+        },
+        {
+            "home": "Ajax",
+            "away": "Emmen"
+        },
+        {
+            "home": "Groningen",
+            "away": "SpartaRotterdam"
+        },
+        {
+            "home": "PSV",
+            "away": "Heerenveen"
+        },
+        {
+            "home": "SpartaRotterdam",
+            "away": "Vitesse"
+        },
+        {
+            "home": "Twente",
+            "away": "Heracles"
+        },
+        {
+            "home": "Heerenveen",
+            "away": "Utrecht"
+        },
+        {
+            "home": "Alkmaar",
+            "away": "Sittard"
+        },
+        {
+            "home": "Venlo",
+            "away": "Waalwijk"
+        },
+        {
+            "home": "Emmen",
+            "away": "Groningen"
+        },
+        {
+            "home": "Feyenoord",
+            "away": "Ajax"
+        },
+        {
+            "home": "Zwolle",
+            "away": "DenHaag"
+        },
+        {
+            "home": "WillemII",
+            "away": "PSV"
+        },
+        {
+            "home": "Ajax",
+            "away": "Venlo"
+        },
+        {
+            "home": "DenHaag",
+            "away": "WillemII"
+        },
+        {
+            "home": "Emmen",
+            "away": "Heerenveen"
+        },
+        {
+            "home": "Groningen",
+            "away": "Alkmaar"
+        },
+        {
+            "home": "Heracles",
+            "away": "Feyenoord"
+        },
+        {
+            "home": "PSV",
+            "away": "Zwolle"
+        },
+        {
+            "home": "Sittard",
+            "away": "Vitesse"
+        },
+        {
+            "home": "SpartaRotterdam",
+            "away": "Utrecht"
+        },
+        {
+            "home": "Waalwijk",
+            "away": "Twente"
+        },
+        {
+            "home": "Alkmaar",
+            "away": "Heracles"
+        },
+        {
+            "home": "Feyenoord",
+            "away": "Waalwijk"
+        },
+        {
+            "home": "Heerenveen",
+            "away": "SpartaRotterdam"
+        },
+        {
+            "home": "Twente",
+            "away": "DenHaag"
+        },
+        {
+            "home": "Utrecht",
+            "away": "PSV"
+        },
+        {
+            "home": "Venlo",
+            "away": "Emmen"
+        },
+        {
+            "home": "Vitesse",
+            "away": "Ajax"
+        },
+        {
+            "home": "WillemII",
+            "away": "Sittard"
+        },
+        {
+            "home": "Zwolle",
+            "away": "Groningen"
+        }
+    ]
+}

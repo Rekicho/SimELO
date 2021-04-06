@@ -1,0 +1,427 @@
+{
+    "teams": [
+        {
+            "name": "ParisSG",
+            "elo": 1867,
+            "points": 63
+        },
+        {
+            "name": "Lyon",
+            "elo": 1734,
+            "points": 60
+        },
+        {
+            "name": "Lille",
+            "elo": 1713,
+            "points": 63
+        },
+        {
+            "name": "Monaco",
+            "elo": 1672,
+            "points": 59
+        },
+        {
+            "name": "Marseille",
+            "elo": 1614,
+            "points": 45
+        },
+        {
+            "name": "Montpellier",
+            "elo": 1601,
+            "points": 44
+        },
+        {
+            "name": "Reims",
+            "elo": 1599,
+            "points": 38
+        },
+        {
+            "name": "Rennes",
+            "elo": 1594,
+            "points": 44
+        },
+        {
+            "name": "Lens",
+            "elo": 1567,
+            "points": 48
+        },
+        {
+            "name": "Metz",
+            "elo": 1566,
+            "points": 43
+        },
+        {
+            "name": "Nice",
+            "elo": 1560,
+            "points": 39
+        },
+        {
+            "name": "Strasbourg",
+            "elo": 1557,
+            "points": 33
+        },
+        {
+            "name": "Bordeaux",
+            "elo": 1551,
+            "points": 36
+        },
+        {
+            "name": "Angers",
+            "elo": 1548,
+            "points": 40
+        },
+        {
+            "name": "Nantes",
+            "elo": 1530,
+            "points": 28
+        },
+        {
+            "name": "Brest",
+            "elo": 1530,
+            "points": 35
+        },
+        {
+            "name": "Saint-Etienne",
+            "elo": 1525,
+            "points": 33
+        },
+        {
+            "name": "Nimes",
+            "elo": 1498,
+            "points": 29
+        },
+        {
+            "name": "Lorient",
+            "elo": 1491,
+            "points": 29
+        },
+        {
+            "name": "Dijon",
+            "elo": 1434,
+            "points": 15
+        }
+    ],
+    "HFA": 33.4,
+    "schedule": [
+        {
+            "home": "Monaco",
+            "away": "Metz"
+        },
+        {
+            "home": "ParisSG",
+            "away": "Lille"
+        },
+        {
+            "home": "Lens",
+            "away": "Lyon"
+        },
+        {
+            "home": "Angers",
+            "away": "Montpellier"
+        },
+        {
+            "home": "Bordeaux",
+            "away": "Strasbourg"
+        },
+        {
+            "home": "Lorient",
+            "away": "Brest"
+        },
+        {
+            "home": "Nantes",
+            "away": "Nice"
+        },
+        {
+            "home": "Reims",
+            "away": "Rennes"
+        },
+        {
+            "home": "Nimes",
+            "away": "Saint-Etienne"
+        },
+        {
+            "home": "Marseille",
+            "away": "Dijon"
+        },
+        {
+            "home": "Metz",
+            "away": "Lille"
+        },
+        {
+            "home": "Strasbourg",
+            "away": "ParisSG"
+        },
+        {
+            "home": "Montpellier",
+            "away": "Marseille"
+        },
+        {
+            "home": "Rennes",
+            "away": "Nantes"
+        },
+        {
+            "home": "Brest",
+            "away": "Nimes"
+        },
+        {
+            "home": "Lens",
+            "away": "Lorient"
+        },
+        {
+            "home": "Nice",
+            "away": "Reims"
+        },
+        {
+            "home": "Saint-Etienne",
+            "away": "Bordeaux"
+        },
+        {
+            "home": "Monaco",
+            "away": "Dijon"
+        },
+        {
+            "home": "Lyon",
+            "away": "Angers"
+        },
+        {
+            "home": "Lille",
+            "away": "Montpellier"
+        },
+        {
+            "home": "Angers",
+            "away": "Rennes"
+        },
+        {
+            "home": "Marseille",
+            "away": "Lorient"
+        },
+        {
+            "home": "ParisSG",
+            "away": "Saint-Etienne"
+        },
+        {
+            "home": "Brest",
+            "away": "Lens"
+        },
+        {
+            "home": "Dijon",
+            "away": "Nice"
+        },
+        {
+            "home": "Nimes",
+            "away": "Strasbourg"
+        },
+        {
+            "home": "Reims",
+            "away": "Metz"
+        },
+        {
+            "home": "Bordeaux",
+            "away": "Monaco"
+        },
+        {
+            "home": "Nantes",
+            "away": "Lyon"
+        },
+        {
+            "home": "Angers",
+            "away": "Monaco"
+        },
+        {
+            "home": "Lens",
+            "away": "Nimes"
+        },
+        {
+            "home": "Lorient",
+            "away": "Bordeaux"
+        },
+        {
+            "home": "Lyon",
+            "away": "Lille"
+        },
+        {
+            "home": "Metz",
+            "away": "ParisSG"
+        },
+        {
+            "home": "Nice",
+            "away": "Montpellier"
+        },
+        {
+            "home": "Reims",
+            "away": "Marseille"
+        },
+        {
+            "home": "Rennes",
+            "away": "Dijon"
+        },
+        {
+            "home": "Saint-Etienne",
+            "away": "Brest"
+        },
+        {
+            "home": "Strasbourg",
+            "away": "Nantes"
+        },
+        {
+            "home": "Bordeaux",
+            "away": "Rennes"
+        },
+        {
+            "home": "Brest",
+            "away": "Nantes"
+        },
+        {
+            "home": "Dijon",
+            "away": "Metz"
+        },
+        {
+            "home": "Lille",
+            "away": "Nice"
+        },
+        {
+            "home": "Lorient",
+            "away": "Angers"
+        },
+        {
+            "home": "Marseille",
+            "away": "Strasbourg"
+        },
+        {
+            "home": "Monaco",
+            "away": "Lyon"
+        },
+        {
+            "home": "Montpellier",
+            "away": "Saint-Etienne"
+        },
+        {
+            "home": "Nimes",
+            "away": "Reims"
+        },
+        {
+            "home": "ParisSG",
+            "away": "Lens"
+        },
+        {
+            "home": "Angers",
+            "away": "Dijon"
+        },
+        {
+            "home": "Lens",
+            "away": "Lille"
+        },
+        {
+            "home": "Lyon",
+            "away": "Lorient"
+        },
+        {
+            "home": "Metz",
+            "away": "Nimes"
+        },
+        {
+            "home": "Nantes",
+            "away": "Bordeaux"
+        },
+        {
+            "home": "Nice",
+            "away": "Brest"
+        },
+        {
+            "home": "Reims",
+            "away": "Monaco"
+        },
+        {
+            "home": "Rennes",
+            "away": "ParisSG"
+        },
+        {
+            "home": "Saint-Etienne",
+            "away": "Marseille"
+        },
+        {
+            "home": "Strasbourg",
+            "away": "Montpellier"
+        },
+        {
+            "home": "Bordeaux",
+            "away": "Lens"
+        },
+        {
+            "home": "Dijon",
+            "away": "Nantes"
+        },
+        {
+            "home": "Lille",
+            "away": "Saint-Etienne"
+        },
+        {
+            "home": "Lorient",
+            "away": "Metz"
+        },
+        {
+            "home": "Marseille",
+            "away": "Angers"
+        },
+        {
+            "home": "Monaco",
+            "away": "Rennes"
+        },
+        {
+            "home": "Montpellier",
+            "away": "Brest"
+        },
+        {
+            "home": "Nice",
+            "away": "Strasbourg"
+        },
+        {
+            "home": "Nimes",
+            "away": "Lyon"
+        },
+        {
+            "home": "ParisSG",
+            "away": "Reims"
+        },
+        {
+            "home": "Angers",
+            "away": "Lille"
+        },
+        {
+            "home": "Brest",
+            "away": "ParisSG"
+        },
+        {
+            "home": "Lens",
+            "away": "Monaco"
+        },
+        {
+            "home": "Lyon",
+            "away": "Nice"
+        },
+        {
+            "home": "Metz",
+            "away": "Marseille"
+        },
+        {
+            "home": "Nantes",
+            "away": "Montpellier"
+        },
+        {
+            "home": "Reims",
+            "away": "Bordeaux"
+        },
+        {
+            "home": "Rennes",
+            "away": "Nimes"
+        },
+        {
+            "home": "Saint-Etienne",
+            "away": "Dijon"
+        },
+        {
+            "home": "Strasbourg",
+            "away": "Lorient"
+        }
+    ]
+}

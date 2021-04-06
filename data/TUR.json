@@ -1,0 +1,552 @@
+{
+    "teams": [
+        {
+            "name": "Besiktas",
+            "elo": 1574,
+            "points": 64
+        },
+        {
+            "name": "Galatasaray",
+            "elo": 1556,
+            "points": 61
+        },
+        {
+            "name": "Trabzonspor",
+            "elo": 1523,
+            "points": 55
+        },
+        {
+            "name": "Fenerbahce",
+            "elo": 1513,
+            "points": 59
+        },
+        {
+            "name": "Alanyaspor",
+            "elo": 1477,
+            "points": 49
+        },
+        {
+            "name": "Sivasspor",
+            "elo": 1454,
+            "points": 40
+        },
+        {
+            "name": "GaziantepFK",
+            "elo": 1433,
+            "points": 47
+        },
+        {
+            "name": "Hatayspor",
+            "elo": 1423,
+            "points": 46
+        },
+        {
+            "name": "Bueyueksehir",
+            "elo": 1420,
+            "points": 30
+        },
+        {
+            "name": "Antalyaspor",
+            "elo": 1404,
+            "points": 39
+        },
+        {
+            "name": "FatihKaraguemruek",
+            "elo": 1399,
+            "points": 44
+        },
+        {
+            "name": "Konyaspor",
+            "elo": 1387,
+            "points": 36
+        },
+        {
+            "name": "Goeztepe",
+            "elo": 1380,
+            "points": 39
+        },
+        {
+            "name": "Rizespor",
+            "elo": 1361,
+            "points": 34
+        },
+        {
+            "name": "Kasimpasa",
+            "elo": 1348,
+            "points": 31
+        },
+        {
+            "name": "Malatyaspor",
+            "elo": 1348,
+            "points": 32
+        },
+        {
+            "name": "Kayseri",
+            "elo": 1339,
+            "points": 31
+        },
+        {
+            "name": "Ankaraguecue",
+            "elo": 1334,
+            "points": 29
+        },
+        {
+            "name": "ErzurumBB",
+            "elo": 1318,
+            "points": 27
+        },
+        {
+            "name": "Genclerbirligi",
+            "elo": 1304,
+            "points": 27
+        },
+        {
+            "name": "Denizlispor",
+            "elo": 1292,
+            "points": 25
+        }
+    ],
+    "HFA": 58.0,
+    "schedule": [
+        {
+            "home": "Kayseri",
+            "away": "Goeztepe"
+        },
+        {
+            "home": "Rizespor",
+            "away": "FatihKaraguemruek"
+        },
+        {
+            "home": "Sivasspor",
+            "away": "Trabzonspor"
+        },
+        {
+            "home": "Hatayspor",
+            "away": "Galatasaray"
+        },
+        {
+            "home": "ErzurumBB",
+            "away": "Konyaspor"
+        },
+        {
+            "home": "Alanyaspor",
+            "away": "Genclerbirligi"
+        },
+        {
+            "home": "Ankaraguecue",
+            "away": "Antalyaspor"
+        },
+        {
+            "home": "Bueyueksehir",
+            "away": "Malatyaspor"
+        },
+        {
+            "home": "Kasimpasa",
+            "away": "Besiktas"
+        },
+        {
+            "home": "Fenerbahce",
+            "away": "Denizlispor"
+        },
+        {
+            "home": "Goeztepe",
+            "away": "Rizespor"
+        },
+        {
+            "home": "FatihKaraguemruek",
+            "away": "Hatayspor"
+        },
+        {
+            "home": "Trabzonspor",
+            "away": "Kayseri"
+        },
+        {
+            "home": "Genclerbirligi",
+            "away": "ErzurumBB"
+        },
+        {
+            "home": "Konyaspor",
+            "away": "Ankaraguecue"
+        },
+        {
+            "home": "Antalyaspor",
+            "away": "Sivasspor"
+        },
+        {
+            "home": "Besiktas",
+            "away": "Alanyaspor"
+        },
+        {
+            "home": "Denizlispor",
+            "away": "Kasimpasa"
+        },
+        {
+            "home": "GaziantepFK",
+            "away": "Bueyueksehir"
+        },
+        {
+            "home": "Malatyaspor",
+            "away": "Fenerbahce"
+        },
+        {
+            "home": "Hatayspor",
+            "away": "Goeztepe"
+        },
+        {
+            "home": "Rizespor",
+            "away": "Trabzonspor"
+        },
+        {
+            "home": "Galatasaray",
+            "away": "FatihKaraguemruek"
+        },
+        {
+            "home": "Sivasspor",
+            "away": "Konyaspor"
+        },
+        {
+            "home": "Ankaraguecue",
+            "away": "Genclerbirligi"
+        },
+        {
+            "home": "Kayseri",
+            "away": "Antalyaspor"
+        },
+        {
+            "home": "ErzurumBB",
+            "away": "Besiktas"
+        },
+        {
+            "home": "Kasimpasa",
+            "away": "Malatyaspor"
+        },
+        {
+            "home": "Alanyaspor",
+            "away": "Denizlispor"
+        },
+        {
+            "home": "Fenerbahce",
+            "away": "GaziantepFK"
+        },
+        {
+            "home": "Antalyaspor",
+            "away": "Rizespor"
+        },
+        {
+            "home": "Bueyueksehir",
+            "away": "Fenerbahce"
+        },
+        {
+            "home": "Besiktas",
+            "away": "Ankaraguecue"
+        },
+        {
+            "home": "Denizlispor",
+            "away": "ErzurumBB"
+        },
+        {
+            "home": "GaziantepFK",
+            "away": "Kasimpasa"
+        },
+        {
+            "home": "Genclerbirligi",
+            "away": "Sivasspor"
+        },
+        {
+            "home": "Goeztepe",
+            "away": "Galatasaray"
+        },
+        {
+            "home": "Konyaspor",
+            "away": "Kayseri"
+        },
+        {
+            "home": "Trabzonspor",
+            "away": "Hatayspor"
+        },
+        {
+            "home": "Malatyaspor",
+            "away": "Alanyaspor"
+        },
+        {
+            "home": "Alanyaspor",
+            "away": "GaziantepFK"
+        },
+        {
+            "home": "Ankaraguecue",
+            "away": "Denizlispor"
+        },
+        {
+            "home": "ErzurumBB",
+            "away": "Malatyaspor"
+        },
+        {
+            "home": "Galatasaray",
+            "away": "Trabzonspor"
+        },
+        {
+            "home": "Hatayspor",
+            "away": "Antalyaspor"
+        },
+        {
+            "home": "FatihKaraguemruek",
+            "away": "Goeztepe"
+        },
+        {
+            "home": "Kasimpasa",
+            "away": "Bueyueksehir"
+        },
+        {
+            "home": "Kayseri",
+            "away": "Genclerbirligi"
+        },
+        {
+            "home": "Rizespor",
+            "away": "Konyaspor"
+        },
+        {
+            "home": "Sivasspor",
+            "away": "Besiktas"
+        },
+        {
+            "home": "Antalyaspor",
+            "away": "Galatasaray"
+        },
+        {
+            "home": "Bueyueksehir",
+            "away": "Alanyaspor"
+        },
+        {
+            "home": "Besiktas",
+            "away": "Kayseri"
+        },
+        {
+            "home": "Denizlispor",
+            "away": "Sivasspor"
+        },
+        {
+            "home": "Fenerbahce",
+            "away": "Kasimpasa"
+        },
+        {
+            "home": "GaziantepFK",
+            "away": "ErzurumBB"
+        },
+        {
+            "home": "Genclerbirligi",
+            "away": "Rizespor"
+        },
+        {
+            "home": "Konyaspor",
+            "away": "Hatayspor"
+        },
+        {
+            "home": "Trabzonspor",
+            "away": "FatihKaraguemruek"
+        },
+        {
+            "home": "Malatyaspor",
+            "away": "Ankaraguecue"
+        },
+        {
+            "home": "Alanyaspor",
+            "away": "Fenerbahce"
+        },
+        {
+            "home": "Ankaraguecue",
+            "away": "GaziantepFK"
+        },
+        {
+            "home": "ErzurumBB",
+            "away": "Bueyueksehir"
+        },
+        {
+            "home": "Galatasaray",
+            "away": "Konyaspor"
+        },
+        {
+            "home": "Goeztepe",
+            "away": "Trabzonspor"
+        },
+        {
+            "home": "Hatayspor",
+            "away": "Genclerbirligi"
+        },
+        {
+            "home": "FatihKaraguemruek",
+            "away": "Antalyaspor"
+        },
+        {
+            "home": "Kayseri",
+            "away": "Denizlispor"
+        },
+        {
+            "home": "Rizespor",
+            "away": "Besiktas"
+        },
+        {
+            "home": "Sivasspor",
+            "away": "Malatyaspor"
+        },
+        {
+            "home": "Antalyaspor",
+            "away": "Goeztepe"
+        },
+        {
+            "home": "Bueyueksehir",
+            "away": "Ankaraguecue"
+        },
+        {
+            "home": "Besiktas",
+            "away": "Hatayspor"
+        },
+        {
+            "home": "Denizlispor",
+            "away": "Rizespor"
+        },
+        {
+            "home": "Fenerbahce",
+            "away": "ErzurumBB"
+        },
+        {
+            "home": "GaziantepFK",
+            "away": "Sivasspor"
+        },
+        {
+            "home": "Genclerbirligi",
+            "away": "Galatasaray"
+        },
+        {
+            "home": "Kasimpasa",
+            "away": "Alanyaspor"
+        },
+        {
+            "home": "Konyaspor",
+            "away": "FatihKaraguemruek"
+        },
+        {
+            "home": "Malatyaspor",
+            "away": "Kayseri"
+        },
+        {
+            "home": "Ankaraguecue",
+            "away": "Fenerbahce"
+        },
+        {
+            "home": "ErzurumBB",
+            "away": "Kasimpasa"
+        },
+        {
+            "home": "Galatasaray",
+            "away": "Besiktas"
+        },
+        {
+            "home": "Goeztepe",
+            "away": "Konyaspor"
+        },
+        {
+            "home": "Hatayspor",
+            "away": "Denizlispor"
+        },
+        {
+            "home": "FatihKaraguemruek",
+            "away": "Genclerbirligi"
+        },
+        {
+            "home": "Kayseri",
+            "away": "GaziantepFK"
+        },
+        {
+            "home": "Rizespor",
+            "away": "Malatyaspor"
+        },
+        {
+            "home": "Sivasspor",
+            "away": "Bueyueksehir"
+        },
+        {
+            "home": "Trabzonspor",
+            "away": "Antalyaspor"
+        },
+        {
+            "home": "Alanyaspor",
+            "away": "ErzurumBB"
+        },
+        {
+            "home": "Bueyueksehir",
+            "away": "Kayseri"
+        },
+        {
+            "home": "Besiktas",
+            "away": "FatihKaraguemruek"
+        },
+        {
+            "home": "Denizlispor",
+            "away": "Galatasaray"
+        },
+        {
+            "home": "Fenerbahce",
+            "away": "Sivasspor"
+        },
+        {
+            "home": "GaziantepFK",
+            "away": "Rizespor"
+        },
+        {
+            "home": "Genclerbirligi",
+            "away": "Goeztepe"
+        },
+        {
+            "home": "Kasimpasa",
+            "away": "Ankaraguecue"
+        },
+        {
+            "home": "Konyaspor",
+            "away": "Trabzonspor"
+        },
+        {
+            "home": "Malatyaspor",
+            "away": "Hatayspor"
+        },
+        {
+            "home": "Ankaraguecue",
+            "away": "Alanyaspor"
+        },
+        {
+            "home": "Antalyaspor",
+            "away": "Konyaspor"
+        },
+        {
+            "home": "Galatasaray",
+            "away": "Malatyaspor"
+        },
+        {
+            "home": "Goeztepe",
+            "away": "Besiktas"
+        },
+        {
+            "home": "Hatayspor",
+            "away": "GaziantepFK"
+        },
+        {
+            "home": "FatihKaraguemruek",
+            "away": "Denizlispor"
+        },
+        {
+            "home": "Kayseri",
+            "away": "Fenerbahce"
+        },
+        {
+            "home": "Rizespor",
+            "away": "Bueyueksehir"
+        },
+        {
+            "home": "Sivasspor",
+            "away": "Kasimpasa"
+        },
+        {
+            "home": "Trabzonspor",
+            "away": "Genclerbirligi"
+        }
+    ]
+}

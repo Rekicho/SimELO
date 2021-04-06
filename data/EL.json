@@ -1,0 +1,54 @@
+{
+    "teams": [
+        {
+            "name": "ManUnited",
+            "elo": 1919
+        },
+        {
+            "name": "Arsenal",
+            "elo": 1838
+        },
+        {
+            "name": "Ajax",
+            "elo": 1811
+        },
+        {
+            "name": "Villarreal",
+            "elo": 1790
+        },
+        {
+            "name": "Roma",
+            "elo": 1760
+        },
+        {
+            "name": "SlaviaPraha",
+            "elo": 1748
+        },
+        {
+            "name": "DinamoZagreb",
+            "elo": 1720
+        },
+        {
+            "name": "Granada",
+            "elo": 1694
+        }
+    ],
+    "schedule": [
+        {
+            "home": "DinamoZagreb",
+            "away": "Villarreal"
+        },
+        {
+            "home": "Arsenal",
+            "away": "SlaviaPraha"
+        },
+        {
+            "home": "Granada",
+            "away": "ManUnited"
+        },
+        {
+            "home": "Ajax",
+            "away": "Roma"
+        }
+    ]
+}
