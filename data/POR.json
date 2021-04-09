@@ -1,134 +1,98 @@
 {
     "teams": [
         {
-            "name": "Porto",
-            "elo": 1800,
-            "points": 54
+            "name": "Sporting",
+            "elo": 1715,
+            "points": 65
         },
         {
-            "name": "Sporting",
-            "elo": 1720,
-            "points": 64
+            "name": "Porto",
+            "elo": 1801,
+            "points": 57
         },
         {
             "name": "Benfica",
-            "elo": 1717,
-            "points": 51
+            "elo": 1719,
+            "points": 54
         },
         {
             "name": "Braga",
-            "elo": 1656,
-            "points": 50
-        },
-        {
-            "name": "Guimaraes",
-            "elo": 1524,
-            "points": 35
+            "elo": 1659,
+            "points": 53
         },
         {
             "name": "PacosFerreira",
-            "elo": 1520,
+            "elo": 1508,
             "points": 44
         },
         {
-            "name": "RioAve",
-            "elo": 1506,
-            "points": 27
+            "name": "Guimaraes",
+            "elo": 1512,
+            "points": 35
         },
         {
             "name": "SantaClara",
-            "elo": 1486,
+            "elo": 1484,
             "points": 32
         },
         {
             "name": "Moreirense",
-            "elo": 1478,
-            "points": 30
+            "elo": 1483,
+            "points": 31
+        },
+        {
+            "name": "Tondela",
+            "elo": 1418,
+            "points": 28
+        },
+        {
+            "name": "GilVicente",
+            "elo": 1451,
+            "points": 28
+        },
+        {
+            "name": "RioAve",
+            "elo": 1490,
+            "points": 27
         },
         {
             "name": "Famalicao",
-            "elo": 1451,
-            "points": 23
+            "elo": 1463,
+            "points": 26
         },
         {
-            "name": "Belenenses",
+            "name": "Portimonense",
             "elo": 1435,
             "points": 26
         },
         {
-            "name": "GilVicente",
-            "elo": 1435,
-            "points": 25
+            "name": "Belenenses",
+            "elo": 1421,
+            "points": 26
         },
         {
             "name": "Boavista",
-            "elo": 1433,
-            "points": 21
-        },
-        {
-            "name": "Portimonense",
-            "elo": 1419,
-            "points": 23
-        },
-        {
-            "name": "Tondela",
-            "elo": 1405,
-            "points": 25
-        },
-        {
-            "name": "Maritimo",
-            "elo": 1399,
-            "points": 21
+            "elo": 1447,
+            "points": 24
         },
         {
             "name": "Farense",
-            "elo": 1390,
+            "elo": 1386,
             "points": 22
         },
         {
+            "name": "Maritimo",
+            "elo": 1398,
+            "points": 21
+        },
+        {
             "name": "Nacional",
-            "elo": 1363,
+            "elo": 1347,
             "points": 21
         }
     ],
-    "HFA": 52.9,
+    "HFA": 49.8,
     "schedule": [
-        {
-            "home": "Belenenses",
-            "away": "Boavista"
-        },
-        {
-            "home": "Benfica",
-            "away": "Maritimo"
-        },
-        {
-            "home": "Famalicao",
-            "away": "PacosFerreira"
-        },
-        {
-            "home": "Farense",
-            "away": "Braga"
-        },
-        {
-            "home": "Porto",
-            "away": "SantaClara"
-        },
-        {
-            "home": "Moreirense",
-            "away": "Sporting"
-        },
-        {
-            "home": "Nacional",
-            "away": "Portimonense"
-        },
-        {
-            "home": "RioAve",
-            "away": "GilVicente"
-        },
-        {
-            "home": "Guimaraes",
-            "away": "Tondela"
-        },
         {
             "home": "Boavista",
             "away": "RioAve"

@@ -1,5 +1,7 @@
 # SimELO
 
+## cl.py
+
 Simulate remaining games of european football leagues using clubs' ELO Rating (obtained from [clubelo.com](http://clubelo.com/), last taken 2021-03-29) 
 to calculate probability of win/draw/loss of each game and record teams' final league position, as well as qualification for European competitions
 and relegation. This is then used to calculate how probable each team is to qualify directly for the next year's group stage of the Champions League.
@@ -33,3 +35,9 @@ However, I was not able to find how the spot from that team would be awarded, so
 For reference, this seems to occur in 1%-2% of the simulations.
 
 You can find the results of 1 million simulation [here](cl_groups.json). Results may vary wildly between simulations.
+
+## pt.py
+
+Simulate remaining games of Liga NOS in the same way, but record teams' final positions, as well as which team qualified for each European competition
+and which teams are relegated. Also simulates the Portuguese Cup and the Champions League, to correctly calculated European spots.
+Data for Champions League and Liga NOS was last taken at 2021-04-06.

@@ -2,35 +2,35 @@
     "teams": [
         {
             "name": "ManCity",
-            "elo": 2022
+            "elo": 2027
         },
         {
             "name": "Bayern",
-            "elo": 2017
+            "elo": 2022
         },
         {
             "name": "RealMadrid",
-            "elo": 1918
+            "elo": 1920
         },
         {
             "name": "Liverpool",
-            "elo": 1904
+            "elo": 1917
         },
         {
             "name": "Chelsea",
-            "elo": 1894
-        },
-        {
-            "name": "ParisSG",
             "elo": 1867
         },
         {
-            "name": "Dortmund",
-            "elo": 1809
+            "name": "ParisSG",
+            "elo": 1854
         },
         {
             "name": "Porto",
-            "elo": 1800
+            "elo": 1801
+        },
+        {
+            "name": "Dortmund",
+            "elo": 1799
         }
     ],
     "schedule": [
