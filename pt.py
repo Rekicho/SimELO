@@ -13,7 +13,6 @@ parsed_data.update(load.load_leagues(['POR']))
 
 full_results = {}
 placements = {}
-porto_wins_cl = 0
 
 for team in parsed_data['POR']['team_elo'].keys():
     full_results[team] = [0] * len(parsed_data['POR']['team_elo'])
@@ -28,12 +27,6 @@ for team in parsed_data['POR']['team_elo'].keys():
     }
 
 for i in range(N_SIMULATIONS):
-    cl_winner = sim.simulate_cup(parsed_data['CL']['team_elo'],
-            copy.deepcopy(parsed_data['CL']['schedule']))
-
-    if cl_winner == 'Porto':
-        porto_wins_cl += 1
-
     table = sim.simulate_league(parsed_data['POR']['team_elo'],
             copy.deepcopy(parsed_data['POR']['table']),
             parsed_data['POR']['schedule'],
@@ -56,11 +49,6 @@ for i in range(N_SIMULATIONS):
         cup_winner = cup_finalists[0]
     else:
         cup_winner = cup_finalists[1]
-
-    if cl_winner in table and cl_winner in table[2::]:
-        placements[cl_winner]['CL-G'] += 1
-        table.remove(cl_winner)
-
 
     cl = [table[0], table[1], table[2]]
     placements[cl[0]]['CL-G'] += 1
@@ -89,8 +77,6 @@ for i in range(N_SIMULATIONS):
     placements[table[0]]['D'] += 1
     placements[table[1]]['D'] += 1
     placements[table[2]]['D-P'] += 1
-
-print("Porto won CL {0} times.".format(porto_wins_cl))
 
 for team in full_results.keys():
     for i, times in enumerate(full_results[team]):

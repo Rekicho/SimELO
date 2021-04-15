@@ -2,101 +2,97 @@
     "teams": [
         {
             "name": "Porto",
-            "elo": 1786,
+            "elo": 1793,
             "points": 60
         },
         {
             "name": "Benfica",
-            "elo": 1714,
+            "elo": 1725,
             "points": 57
         },
         {
             "name": "Sporting",
-            "elo": 1711,
-            "points": 65
+            "elo": 1705,
+            "points": 66
         },
         {
             "name": "Braga",
-            "elo": 1654,
+            "elo": 1649,
             "points": 54
         },
         {
-            "name": "Guimaraes",
-            "elo": 1507,
-            "points": 35
-        },
-        {
             "name": "PacosFerreira",
-            "elo": 1504,
+            "elo": 1496,
             "points": 44
         },
         {
-            "name": "RioAve",
-            "elo": 1486,
-            "points": 28
+            "name": "Guimaraes",
+            "elo": 1493,
+            "points": 35
         },
         {
             "name": "SantaClara",
-            "elo": 1480,
+            "elo": 1488,
             "points": 35
         },
         {
             "name": "Moreirense",
-            "elo": 1478,
+            "elo": 1488,
             "points": 34
         },
         {
-            "name": "Famalicao",
-            "elo": 1459,
-            "points": 26
-        },
-        {
-            "name": "GilVicente",
-            "elo": 1446,
+            "name": "RioAve",
+            "elo": 1488,
             "points": 28
         },
         {
-            "name": "Boavista",
-            "elo": 1443,
-            "points": 25
+            "name": "Famalicao",
+            "elo": 1467,
+            "points": 27
         },
         {
             "name": "Portimonense",
-            "elo": 1430,
+            "elo": 1447,
             "points": 29
         },
         {
+            "name": "Boavista",
+            "elo": 1444,
+            "points": 25
+        },
+        {
+            "name": "GilVicente",
+            "elo": 1439,
+            "points": 28
+        },
+        {
             "name": "Belenenses",
-            "elo": 1417,
+            "elo": 1425,
             "points": 27
         },
         {
             "name": "Tondela",
-            "elo": 1413,
+            "elo": 1412,
             "points": 28
         },
         {
             "name": "Maritimo",
-            "elo": 1393,
+            "elo": 1401,
             "points": 24
         },
         {
             "name": "Farense",
-            "elo": 1382,
+            "elo": 1377,
             "points": 22
         },
         {
             "name": "Nacional",
-            "elo": 1343,
+            "elo": 1336,
             "points": 21
         }
     ],
     "schedule": [
         {
-            "home": "Sporting",
-            "away": "Famalicao"
-        },
-        {
             "home": "Boavista",
             "away": "PacosFerreira"
         },
@@ -105,20 +101,16 @@
             "away": "Sporting"
         },
         {
-            "home": "Belenenses",
-            "away": "Maritimo"
+            "home": "Moreirense",
+            "away": "Tondela"
         },
         {
             "home": "Guimaraes",
             "away": "SantaClara"
         },
         {
-            "home": "Moreirense",
-            "away": "Tondela"
-        },
-        {
-            "home": "Nacional",
-            "away": "Porto"
+            "home": "Belenenses",
+            "away": "Maritimo"
         },
         {
             "home": "Benfica",
@@ -133,48 +125,60 @@
             "away": "Portimonense"
         },
         {
-            "home": "GilVicente",
-            "away": "Famalicao"
-        },
-        {
-            "home": "Tondela",
-            "away": "Nacional"
-        },
-        {
-            "home": "Sporting",
-            "away": "Belenenses"
-        },
-        {
-            "home": "Portimonense",
-            "away": "Benfica"
-        },
-        {
-            "home": "Braga",
-            "away": "Boavista"
-        },
-        {
-            "home": "Porto",
-            "away": "Guimaraes"
-        },
-        {
-            "home": "SantaClara",
-            "away": "Moreirense"
+            "home": "Nacional",
+            "away": "Porto"
         },
         {
             "home": "PacosFerreira",
             "away": "Farense"
         },
         {
+            "home": "SantaClara",
+            "away": "Moreirense"
+        },
+        {
             "home": "Maritimo",
             "away": "RioAve"
         },
         {
-            "home": "Belenenses",
-            "away": "GilVicente"
+            "home": "Braga",
+            "away": "Boavista"
+        },
+        {
+            "home": "Sporting",
+            "away": "Belenenses"
+        },
+        {
+            "home": "Tondela",
+            "away": "Nacional"
+        },
+        {
+            "home": "GilVicente",
+            "away": "Famalicao"
+        },
+        {
+            "home": "Portimonense",
+            "away": "Benfica"
+        },
+        {
+            "home": "Porto",
+            "away": "Guimaraes"
+        },
+        {
+            "home": "Boavista",
+            "away": "Maritimo"
         },
         {
             "home": "RioAve",
             "away": "PacosFerreira"
+        },
+        {
+            "home": "Braga",
+            "away": "Sporting"
+        },
+        {
+            "home": "Belenenses",
+            "away": "GilVicente"
         },
         {
             "home": "Benfica",
@@ -185,8 +189,8 @@
             "away": "Guimaraes"
         },
         {
-            "home": "Boavista",
-            "away": "Maritimo"
+            "home": "Famalicao",
+            "away": "Tondela"
         },
         {
             "home": "Moreirense",
@@ -195,14 +199,6 @@
         {
             "home": "Farense",
             "away": "Portimonense"
-        },
-        {
-            "home": "Braga",
-            "away": "Sporting"
-        },
-        {
-            "home": "Famalicao",
-            "away": "Tondela"
         },
         {
             "home": "Porto",
@@ -385,5 +381,5 @@
             "away": "RioAve"
         }
     ],
-    "HFA": 49.8
+    "HFA": 49.4
 }
