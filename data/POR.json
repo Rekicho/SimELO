@@ -2,145 +2,97 @@
     "teams": [
         {
             "name": "Porto",
-            "elo": 1793,
-            "points": 60
+            "elo": 1794,
+            "points": 63
         },
         {
             "name": "Benfica",
-            "elo": 1725,
+            "elo": 1710,
             "points": 57
         },
         {
             "name": "Sporting",
-            "elo": 1705,
-            "points": 66
+            "elo": 1708,
+            "points": 69
         },
         {
             "name": "Braga",
-            "elo": 1649,
-            "points": 54
-        },
-        {
-            "name": "PacosFerreira",
-            "elo": 1496,
-            "points": 44
+            "elo": 1646,
+            "points": 55
         },
         {
             "name": "Guimaraes",
-            "elo": 1493,
-            "points": 35
-        },
-        {
-            "name": "SantaClara",
-            "elo": 1488,
-            "points": 35
-        },
-        {
-            "name": "Moreirense",
-            "elo": 1488,
-            "points": 34
+            "elo": 1500,
+            "points": 38
         },
         {
             "name": "RioAve",
-            "elo": 1488,
-            "points": 28
+            "elo": 1491,
+            "points": 29
+        },
+        {
+            "name": "PacosFerreira",
+            "elo": 1484,
+            "points": 44
+        },
+        {
+            "name": "SantaClara",
+            "elo": 1482,
+            "points": 36
+        },
+        {
+            "name": "Moreirense",
+            "elo": 1477,
+            "points": 35
         },
         {
             "name": "Famalicao",
-            "elo": 1467,
+            "elo": 1457,
             "points": 27
         },
         {
             "name": "Portimonense",
-            "elo": 1447,
-            "points": 29
+            "elo": 1457,
+            "points": 32
         },
         {
             "name": "Boavista",
-            "elo": 1444,
-            "points": 25
+            "elo": 1455,
+            "points": 28
         },
         {
             "name": "GilVicente",
-            "elo": 1439,
-            "points": 28
+            "elo": 1454,
+            "points": 31
         },
         {
             "name": "Belenenses",
-            "elo": 1425,
-            "points": 27
+            "elo": 1434,
+            "points": 30
         },
         {
             "name": "Tondela",
-            "elo": 1412,
-            "points": 28
+            "elo": 1423,
+            "points": 31
         },
         {
             "name": "Maritimo",
-            "elo": 1401,
-            "points": 24
+            "elo": 1392,
+            "points": 27
         },
         {
             "name": "Farense",
-            "elo": 1377,
-            "points": 22
+            "elo": 1374,
+            "points": 25
         },
         {
             "name": "Nacional",
-            "elo": 1336,
+            "elo": 1335,
             "points": 21
         }
     ],
     "schedule": [
         {
-            "home": "Boavista",
-            "away": "PacosFerreira"
-        },
-        {
-            "home": "Farense",
-            "away": "Sporting"
-        },
-        {
-            "home": "Moreirense",
-            "away": "Tondela"
-        },
-        {
-            "home": "Guimaraes",
-            "away": "SantaClara"
-        },
-        {
-            "home": "Belenenses",
-            "away": "Maritimo"
-        },
-        {
-            "home": "Benfica",
-            "away": "GilVicente"
-        },
-        {
-            "home": "RioAve",
-            "away": "Braga"
-        },
-        {
-            "home": "Famalicao",
-            "away": "Portimonense"
-        },
-        {
-            "home": "Nacional",
-            "away": "Porto"
-        },
-        {
-            "home": "PacosFerreira",
-            "away": "Farense"
-        },
-        {
-            "home": "SantaClara",
-            "away": "Moreirense"
-        },
-        {
-            "home": "Maritimo",
-            "away": "RioAve"
-        },
-        {
             "home": "Braga",
             "away": "Boavista"
         },
@@ -181,16 +133,16 @@
             "away": "GilVicente"
         },
         {
+            "home": "Famalicao",
+            "away": "Tondela"
+        },
+        {
             "home": "Benfica",
             "away": "SantaClara"
         },
         {
             "home": "Nacional",
             "away": "Guimaraes"
-        },
-        {
-            "home": "Famalicao",
-            "away": "Tondela"
         },
         {
             "home": "Moreirense",
@@ -201,32 +153,24 @@
             "away": "Portimonense"
         },
         {
-            "home": "Porto",
-            "away": "Famalicao"
-        },
-        {
-            "home": "Sporting",
-            "away": "Nacional"
+            "home": "Maritimo",
+            "away": "Braga"
         },
         {
             "home": "PacosFerreira",
             "away": "Belenenses"
         },
         {
+            "home": "Guimaraes",
+            "away": "Moreirense"
+        },
+        {
             "home": "Tondela",
             "away": "Benfica"
         },
         {
-            "home": "SantaClara",
-            "away": "Boavista"
-        },
-        {
-            "home": "Maritimo",
-            "away": "Braga"
-        },
-        {
-            "home": "Guimaraes",
-            "away": "Moreirense"
+            "home": "Porto",
+            "away": "Famalicao"
         },
         {
             "home": "GilVicente",
@@ -235,6 +179,14 @@
         {
             "home": "Portimonense",
             "away": "RioAve"
+        },
+        {
+            "home": "SantaClara",
+            "away": "Boavista"
+        },
+        {
+            "home": "Sporting",
+            "away": "Nacional"
         },
         {
             "home": "Maritimo",
@@ -245,56 +197,40 @@
             "away": "PacosFerreira"
         },
         {
+            "home": "RioAve",
+            "away": "Sporting"
+        },
+        {
             "home": "Moreirense",
             "away": "Nacional"
-        },
-        {
-            "home": "Famalicao",
-            "away": "SantaClara"
-        },
-        {
-            "home": "Farense",
-            "away": "Guimaraes"
-        },
-        {
-            "home": "Benfica",
-            "away": "Porto"
         },
         {
             "home": "Belenenses",
             "away": "Portimonense"
         },
         {
-            "home": "RioAve",
-            "away": "Sporting"
+            "home": "Benfica",
+            "away": "Porto"
+        },
+        {
+            "home": "Farense",
+            "away": "Guimaraes"
+        },
+        {
+            "home": "Famalicao",
+            "away": "SantaClara"
         },
         {
             "home": "Boavista",
             "away": "Tondela"
         },
         {
-            "home": "Guimaraes",
-            "away": "Famalicao"
-        },
-        {
-            "home": "Tondela",
-            "away": "Belenenses"
-        },
-        {
-            "home": "Nacional",
-            "away": "Benfica"
-        },
-        {
-            "home": "Sporting",
-            "away": "Boavista"
+            "home": "PacosFerreira",
+            "away": "Maritimo"
         },
         {
             "home": "GilVicente",
             "away": "Braga"
-        },
-        {
-            "home": "PacosFerreira",
-            "away": "Maritimo"
         },
         {
             "home": "Portimonense",
@@ -309,8 +245,44 @@
             "away": "RioAve"
         },
         {
+            "home": "Tondela",
+            "away": "Belenenses"
+        },
+        {
+            "home": "Nacional",
+            "away": "Benfica"
+        },
+        {
+            "home": "Sporting",
+            "away": "Boavista"
+        },
+        {
+            "home": "Guimaraes",
+            "away": "Famalicao"
+        },
+        {
             "home": "PacosFerreira",
             "away": "GilVicente"
+        },
+        {
+            "home": "Braga",
+            "away": "Moreirense"
+        },
+        {
+            "home": "Boavista",
+            "away": "Portimonense"
+        },
+        {
+            "home": "Farense",
+            "away": "Tondela"
+        },
+        {
+            "home": "Benfica",
+            "away": "Sporting"
+        },
+        {
+            "home": "RioAve",
+            "away": "Porto"
         },
         {
             "home": "Famalicao",
@@ -323,26 +295,6 @@
         {
             "home": "Maritimo",
             "away": "Guimaraes"
-        },
-        {
-            "home": "Braga",
-            "away": "Moreirense"
-        },
-        {
-            "home": "RioAve",
-            "away": "Porto"
-        },
-        {
-            "home": "Boavista",
-            "away": "Portimonense"
-        },
-        {
-            "home": "Benfica",
-            "away": "Sporting"
-        },
-        {
-            "home": "Farense",
-            "away": "Tondela"
         },
         {
             "home": "Moreirense",
@@ -381,5 +333,610 @@
             "away": "RioAve"
         }
     ],
-    "HFA": 49.4
+    "h2h": {
+        "BragaPorto": "Porto",
+        "FarenseMoreirense": "Moreirense",
+        "MaritimoSantaClara": "SantaClara",
+        "BenficaFamalicao": "Benfica",
+        "BelenensesGuimaraes": "Belenenses",
+        "PacosFerreiraPortimonense": "PacosFerreira",
+        "RioAveTondela": "RioAve",
+        "BoavistaNacional": "Nacional",
+        "GilVicenteSporting": "Sporting",
+        "BelenensesFamalicao": "Famalicao",
+        "FarenseNacional": "Farense",
+        "GuimaraesRioAve": "RioAve",
+        "BoavistaPorto": "Porto",
+        "GilVicentePortimonense": "Portimonense",
+        "BenficaMoreirense": "Benfica",
+        "PacosFerreiraSporting": "Sporting",
+        "BoavistaMoreirense": "Boavista",
+        "BelenensesNacional": "Belenenses",
+        "GilVicenteSantaClara": "GilVicente",
+        "PortimonenseSporting": "Sporting",
+        "GuimaraesPacosFerreira": "Guimaraes",
+        "FamalicaoRioAve": "Famalicao",
+        "BragaTondela": "Braga",
+        "BenficaFarense": "Benfica",
+        "MaritimoPorto": "Maritimo",
+        "BoavistaGuimaraes": "Guimaraes",
+        "FamalicaoFarense": "Famalicao",
+        "PacosFerreiraSantaClara": "SantaClara",
+        "PortoSporting": "Porto",
+        "MaritimoPortimonense": "Portimonense",
+        "GilVicenteTondela": "Tondela",
+        "BragaNacional": "Braga",
+        "BenficaRioAve": "Benfica",
+        "BelenensesMoreirense": "Belenenses",
+        "NacionalPacosFerreira": "PacosFerreira",
+        "SantaClaraSporting": "Sporting",
+        "PortimonenseTondela": "Portimonense",
+        "GilVicentePorto": "Porto",
+        "BoavistaFamalicao": "Boavista",
+        "MaritimoMoreirense": "Moreirense",
+        "FarenseRioAve": "RioAve",
+        "BelenensesBenfica": "Benfica",
+        "BragaGuimaraes": "Braga",
+        "MaritimoNacional": "Maritimo",
+        "BelenensesFarense": "Belenenses",
+        "BenficaBoavista": "Boavista",
+        "PortimonenseSantaClara": "SantaClara",
+        "SportingTondela": "Sporting",
+        "MoreirenseRioAve": "RioAve",
+        "GilVicenteGuimaraes": "GilVicente",
+        "PacosFerreiraPorto": "Porto",
+        "BragaFamalicao": "Braga",
+        "GilVicenteNacional": "GilVicente",
+        "MoreirensePacosFerreira": "PacosFerreira",
+        "SantaClaraTondela": "Tondela",
+        "PortimonensePorto": "Porto",
+        "GuimaraesSporting": "Sporting",
+        "FamalicaoMaritimo": "Famalicao",
+        "BoavistaFarense": "Farense",
+        "BenficaBraga": "Benfica",
+        "NacionalPortimonense": "Portimonense",
+        "GilVicenteRioAve": "GilVicente",
+        "PortoSantaClara": "Porto",
+        "BelenensesBoavista": "Boavista",
+        "GuimaraesTondela": "Guimaraes",
+        "BragaFarense": "Braga",
+        "BenficaMaritimo": "Benfica",
+        "MoreirenseSporting": "Sporting",
+        "GuimaraesPortimonense": "Portimonense",
+        "FarenseMaritimo": "Maritimo",
+        "BoavistaRioAve": "RioAve",
+        "PortoTondela": "Porto",
+        "BenficaPacosFerreira": "Benfica",
+        "GilVicenteMoreirense": "Moreirense",
+        "NacionalSantaClara": "SantaClara",
+        "BelenensesBraga": "Belenenses",
+        "FamalicaoSporting": "Sporting",
+        "BoavistaPacosFerreira": "Boavista",
+        "FarenseSporting": "Sporting",
+        "MoreirenseTondela": "Tondela",
+        "GuimaraesSantaClara": "Guimaraes",
+        "BelenensesMaritimo": "Belenenses",
+        "BenficaGilVicente": "Benfica",
+        "BragaRioAve": "Braga",
+        "FamalicaoPortimonense": "Portimonense",
+        "NacionalPorto": "Porto",
+        "FarensePacosFerreira": "Farense",
+        "MoreirenseSantaClara": "Moreirense",
+        "MaritimoRioAve": "Maritimo"
+    },
+    "temp_h2h": {
+        "BragaSantaClara": {
+            "Braga_points": 3,
+            "Braga_home_goals": 0,
+            "Braga_away_goals": 1,
+            "SantaClara_points": 3,
+            "SantaClara_home_goals": 0,
+            "SantaClara_away_goals": 1
+        },
+        "MaritimoTondela": {
+            "Maritimo_points": 3,
+            "Maritimo_home_goals": 2,
+            "Maritimo_away_goals": 1,
+            "Tondela_points": 3,
+            "Tondela_home_goals": 2,
+            "Tondela_away_goals": 1
+        },
+        "BelenensesRioAve": {
+            "Belenenses_points": 2,
+            "Belenenses_home_goals": 0,
+            "Belenenses_away_goals": 0,
+            "RioAve_points": 2,
+            "RioAve_home_goals": 0,
+            "RioAve_away_goals": 0
+        },
+        "FamalicaoPacosFerreira": {
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 2,
+            "PacosFerreira_away_goals": 0,
+            "Famalicao_points": 3,
+            "Famalicao_home_goals": 2,
+            "Famalicao_away_goals": 0
+        },
+        "FamalicaoGilVicente": {
+            "Famalicao_points": 0,
+            "Famalicao_home_goals": 0,
+            "Famalicao_away_goals": 0,
+            "GilVicente_points": 3,
+            "GilVicente_home_goals": 0,
+            "GilVicente_away_goals": 1
+        },
+        "NacionalTondela": {
+            "Nacional_points": 3,
+            "Nacional_home_goals": 2,
+            "Nacional_away_goals": 0,
+            "Tondela_points": 0,
+            "Tondela_home_goals": 0,
+            "Tondela_away_goals": 0
+        },
+        "BelenensesSporting": {
+            "Belenenses_points": 0,
+            "Belenenses_home_goals": 1,
+            "Belenenses_away_goals": 0,
+            "Sporting_points": 3,
+            "Sporting_home_goals": 0,
+            "Sporting_away_goals": 2
+        },
+        "BoavistaBraga": {
+            "Boavista_points": 0,
+            "Boavista_home_goals": 1,
+            "Boavista_away_goals": 0,
+            "Braga_points": 3,
+            "Braga_home_goals": 0,
+            "Braga_away_goals": 4
+        },
+        "BenficaPortimonense": {
+            "Benfica_points": 3,
+            "Benfica_home_goals": 2,
+            "Benfica_away_goals": 0,
+            "Portimonense_points": 0,
+            "Portimonense_home_goals": 0,
+            "Portimonense_away_goals": 1
+        },
+        "GuimaraesPorto": {
+            "Guimaraes_points": 0,
+            "Guimaraes_home_goals": 2,
+            "Guimaraes_away_goals": 0,
+            "Porto_points": 3,
+            "Porto_home_goals": 0,
+            "Porto_away_goals": 3
+        },
+        "BragaSporting": {
+            "Sporting_points": 3,
+            "Sporting_home_goals": 2,
+            "Sporting_away_goals": 0,
+            "Braga_points": 0,
+            "Braga_home_goals": 0,
+            "Braga_away_goals": 0
+        },
+        "FamalicaoTondela": {
+            "Tondela_points": 3,
+            "Tondela_home_goals": 1,
+            "Tondela_away_goals": 0,
+            "Famalicao_points": 0,
+            "Famalicao_home_goals": 0,
+            "Famalicao_away_goals": 0
+        },
+        "BoavistaMaritimo": {
+            "Maritimo_points": 1,
+            "Maritimo_home_goals": 0,
+            "Maritimo_away_goals": 0,
+            "Boavista_points": 1,
+            "Boavista_home_goals": 0,
+            "Boavista_away_goals": 0
+        },
+        "PacosFerreiraRioAve": {
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 2,
+            "PacosFerreira_away_goals": 0,
+            "RioAve_points": 0,
+            "RioAve_home_goals": 0,
+            "RioAve_away_goals": 0
+        },
+        "MoreirensePorto": {
+            "Porto_points": 3,
+            "Porto_home_goals": 3,
+            "Porto_away_goals": 0,
+            "Moreirense_points": 0,
+            "Moreirense_home_goals": 0,
+            "Moreirense_away_goals": 0
+        },
+        "BenficaSantaClara": {
+            "SantaClara_points": 1,
+            "SantaClara_home_goals": 1,
+            "SantaClara_away_goals": 0,
+            "Benfica_points": 1,
+            "Benfica_home_goals": 0,
+            "Benfica_away_goals": 1
+        },
+        "BelenensesGilVicente": {
+            "GilVicente_points": 1,
+            "GilVicente_home_goals": 0,
+            "GilVicente_away_goals": 0,
+            "Belenenses_points": 1,
+            "Belenenses_home_goals": 0,
+            "Belenenses_away_goals": 0
+        },
+        "FarensePortimonense": {
+            "Portimonense_points": 3,
+            "Portimonense_home_goals": 2,
+            "Portimonense_away_goals": 0,
+            "Farense_points": 0,
+            "Farense_home_goals": 0,
+            "Farense_away_goals": 0
+        },
+        "GuimaraesNacional": {
+            "Guimaraes_points": 3,
+            "Guimaraes_home_goals": 3,
+            "Guimaraes_away_goals": 0,
+            "Nacional_points": 0,
+            "Nacional_home_goals": 0,
+            "Nacional_away_goals": 1
+        },
+        "BragaMaritimo": {
+            "Braga_points": 3,
+            "Braga_home_goals": 2,
+            "Braga_away_goals": 0,
+            "Maritimo_points": 0,
+            "Maritimo_home_goals": 0,
+            "Maritimo_away_goals": 1
+        },
+        "NacionalSporting": {
+            "Nacional_points": 0,
+            "Nacional_home_goals": 0,
+            "Nacional_away_goals": 0,
+            "Sporting_points": 3,
+            "Sporting_home_goals": 0,
+            "Sporting_away_goals": 2
+        },
+        "BenficaTondela": {
+            "Benfica_points": 3,
+            "Benfica_home_goals": 2,
+            "Benfica_away_goals": 0,
+            "Tondela_points": 0,
+            "Tondela_home_goals": 0,
+            "Tondela_away_goals": 0
+        },
+        "PortimonenseRioAve": {
+            "RioAve_points": 3,
+            "RioAve_home_goals": 3,
+            "RioAve_away_goals": 0,
+            "Portimonense_points": 0,
+            "Portimonense_home_goals": 0,
+            "Portimonense_away_goals": 0
+        },
+        "FamalicaoPorto": {
+            "Famalicao_points": 0,
+            "Famalicao_home_goals": 1,
+            "Famalicao_away_goals": 0,
+            "Porto_points": 3,
+            "Porto_home_goals": 0,
+            "Porto_away_goals": 4
+        },
+        "GuimaraesMoreirense": {
+            "Moreirense_points": 1,
+            "Moreirense_home_goals": 2,
+            "Moreirense_away_goals": 0,
+            "Guimaraes_points": 1,
+            "Guimaraes_home_goals": 0,
+            "Guimaraes_away_goals": 2
+        },
+        "BoavistaSantaClara": {
+            "Boavista_points": 1,
+            "Boavista_home_goals": 1,
+            "Boavista_away_goals": 0,
+            "SantaClara_points": 1,
+            "SantaClara_home_goals": 0,
+            "SantaClara_away_goals": 1
+        },
+        "FarenseGilVicente": {
+            "Farense_points": 3,
+            "Farense_home_goals": 3,
+            "Farense_away_goals": 0,
+            "GilVicente_points": 0,
+            "GilVicente_home_goals": 0,
+            "GilVicente_away_goals": 1
+        },
+        "BelenensesPacosFerreira": {
+            "Belenenses_points": 0,
+            "Belenenses_home_goals": 0,
+            "Belenenses_away_goals": 0,
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 0,
+            "PacosFerreira_away_goals": 2
+        },
+        "RioAveSporting": {
+            "Sporting_points": 1,
+            "Sporting_home_goals": 1,
+            "Sporting_away_goals": 0,
+            "RioAve_points": 1,
+            "RioAve_home_goals": 0,
+            "RioAve_away_goals": 1
+        },
+        "BenficaPorto": {
+            "Porto_points": 1,
+            "Porto_home_goals": 1,
+            "Porto_away_goals": 0,
+            "Benfica_points": 1,
+            "Benfica_home_goals": 0,
+            "Benfica_away_goals": 1
+        },
+        "BragaPacosFerreira": {
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 2,
+            "PacosFerreira_away_goals": 0,
+            "Braga_points": 0,
+            "Braga_home_goals": 0,
+            "Braga_away_goals": 0
+        },
+        "BoavistaTondela": {
+            "Tondela_points": 3,
+            "Tondela_home_goals": 3,
+            "Tondela_away_goals": 0,
+            "Boavista_points": 0,
+            "Boavista_home_goals": 0,
+            "Boavista_away_goals": 1
+        },
+        "MoreirenseNacional": {
+            "Nacional_points": 0,
+            "Nacional_home_goals": 0,
+            "Nacional_away_goals": 0,
+            "Moreirense_points": 3,
+            "Moreirense_home_goals": 0,
+            "Moreirense_away_goals": 1
+        },
+        "FamalicaoSantaClara": {
+            "SantaClara_points": 0,
+            "SantaClara_home_goals": 1,
+            "SantaClara_away_goals": 0,
+            "Famalicao_points": 3,
+            "Famalicao_home_goals": 0,
+            "Famalicao_away_goals": 2
+        },
+        "GilVicenteMaritimo": {
+            "GilVicente_points": 0,
+            "GilVicente_home_goals": 0,
+            "GilVicente_away_goals": 0,
+            "Maritimo_points": 3,
+            "Maritimo_home_goals": 0,
+            "Maritimo_away_goals": 1
+        },
+        "BelenensesPortimonense": {
+            "Portimonense_points": 3,
+            "Portimonense_home_goals": 1,
+            "Portimonense_away_goals": 0,
+            "Belenenses_points": 0,
+            "Belenenses_home_goals": 0,
+            "Belenenses_away_goals": 0
+        },
+        "FarenseGuimaraes": {
+            "Guimaraes_points": 1,
+            "Guimaraes_home_goals": 2,
+            "Guimaraes_away_goals": 0,
+            "Farense_points": 1,
+            "Farense_home_goals": 0,
+            "Farense_away_goals": 2
+        },
+        "MaritimoPacosFerreira": {
+            "Maritimo_points": 0,
+            "Maritimo_home_goals": 0,
+            "Maritimo_away_goals": 0,
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 0,
+            "PacosFerreira_away_goals": 3
+        },
+        "MoreirensePortimonense": {
+            "Moreirense_points": 1,
+            "Moreirense_home_goals": 2,
+            "Moreirense_away_goals": 0,
+            "Portimonense_points": 1,
+            "Portimonense_home_goals": 0,
+            "Portimonense_away_goals": 2
+        },
+        "FamalicaoGuimaraes": {
+            "Famalicao_points": 0,
+            "Famalicao_home_goals": 0,
+            "Famalicao_away_goals": 0,
+            "Guimaraes_points": 3,
+            "Guimaraes_home_goals": 0,
+            "Guimaraes_away_goals": 1
+        },
+        "BelenensesTondela": {
+            "Belenenses_points": 3,
+            "Belenenses_home_goals": 2,
+            "Belenenses_away_goals": 0,
+            "Tondela_points": 0,
+            "Tondela_home_goals": 0,
+            "Tondela_away_goals": 0
+        },
+        "RioAveSantaClara": {
+            "RioAve_points": 0,
+            "RioAve_home_goals": 1,
+            "RioAve_away_goals": 0,
+            "SantaClara_points": 3,
+            "SantaClara_home_goals": 0,
+            "SantaClara_away_goals": 2
+        },
+        "BenficaNacional": {
+            "Benfica_points": 1,
+            "Benfica_home_goals": 1,
+            "Benfica_away_goals": 0,
+            "Nacional_points": 1,
+            "Nacional_home_goals": 0,
+            "Nacional_away_goals": 1
+        },
+        "FarensePorto": {
+            "Farense_points": 0,
+            "Farense_home_goals": 0,
+            "Farense_away_goals": 0,
+            "Porto_points": 3,
+            "Porto_home_goals": 0,
+            "Porto_away_goals": 1
+        },
+        "BragaGilVicente": {
+            "Braga_points": 3,
+            "Braga_home_goals": 1,
+            "Braga_away_goals": 0,
+            "GilVicente_points": 0,
+            "GilVicente_home_goals": 0,
+            "GilVicente_away_goals": 0
+        },
+        "BoavistaSporting": {
+            "Boavista_points": 0,
+            "Boavista_home_goals": 0,
+            "Boavista_away_goals": 0,
+            "Sporting_points": 3,
+            "Sporting_home_goals": 0,
+            "Sporting_away_goals": 2
+        },
+        "FamalicaoNacional": {
+            "Nacional_points": 3,
+            "Nacional_home_goals": 2,
+            "Nacional_away_goals": 0,
+            "Famalicao_points": 0,
+            "Famalicao_home_goals": 0,
+            "Famalicao_away_goals": 1
+        },
+        "FarenseTondela": {
+            "Tondela_points": 3,
+            "Tondela_home_goals": 2,
+            "Tondela_away_goals": 0,
+            "Farense_points": 0,
+            "Farense_home_goals": 0,
+            "Farense_away_goals": 0
+        },
+        "BoavistaPortimonense": {
+            "Portimonense_points": 0,
+            "Portimonense_home_goals": 1,
+            "Portimonense_away_goals": 0,
+            "Boavista_points": 3,
+            "Boavista_home_goals": 0,
+            "Boavista_away_goals": 2
+        },
+        "GuimaraesMaritimo": {
+            "Guimaraes_points": 3,
+            "Guimaraes_home_goals": 1,
+            "Guimaraes_away_goals": 0,
+            "Maritimo_points": 0,
+            "Maritimo_home_goals": 0,
+            "Maritimo_away_goals": 0
+        },
+        "BelenensesSantaClara": {
+            "SantaClara_points": 3,
+            "SantaClara_home_goals": 2,
+            "SantaClara_away_goals": 0,
+            "Belenenses_points": 0,
+            "Belenenses_home_goals": 0,
+            "Belenenses_away_goals": 0
+        },
+        "PortoRioAve": {
+            "Porto_points": 3,
+            "Porto_home_goals": 2,
+            "Porto_away_goals": 0,
+            "RioAve_points": 0,
+            "RioAve_home_goals": 0,
+            "RioAve_away_goals": 0
+        },
+        "BragaMoreirense": {
+            "Moreirense_points": 0,
+            "Moreirense_home_goals": 0,
+            "Moreirense_away_goals": 0,
+            "Braga_points": 3,
+            "Braga_home_goals": 0,
+            "Braga_away_goals": 4
+        },
+        "BenficaSporting": {
+            "Sporting_points": 3,
+            "Sporting_home_goals": 1,
+            "Sporting_away_goals": 0,
+            "Benfica_points": 0,
+            "Benfica_home_goals": 0,
+            "Benfica_away_goals": 0
+        },
+        "GilVicentePacosFerreira": {
+            "GilVicente_points": 0,
+            "GilVicente_home_goals": 1,
+            "GilVicente_away_goals": 0,
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 0,
+            "PacosFerreira_away_goals": 2
+        },
+        "FarenseSantaClara": {
+            "Farense_points": 1,
+            "Farense_home_goals": 1,
+            "Farense_away_goals": 0,
+            "SantaClara_points": 1,
+            "SantaClara_home_goals": 0,
+            "SantaClara_away_goals": 1
+        },
+        "BelenensesPorto": {
+            "Belenenses_points": 1,
+            "Belenenses_home_goals": 0,
+            "Belenenses_away_goals": 0,
+            "Porto_points": 1,
+            "Porto_home_goals": 0,
+            "Porto_away_goals": 0
+        },
+        "BragaPortimonense": {
+            "Braga_points": 3,
+            "Braga_home_goals": 2,
+            "Braga_away_goals": 0,
+            "Portimonense_points": 0,
+            "Portimonense_home_goals": 0,
+            "Portimonense_away_goals": 1
+        },
+        "FamalicaoMoreirense": {
+            "Famalicao_points": 0,
+            "Famalicao_home_goals": 0,
+            "Famalicao_away_goals": 0,
+            "Moreirense_points": 3,
+            "Moreirense_home_goals": 0,
+            "Moreirense_away_goals": 2
+        },
+        "NacionalRioAve": {
+            "RioAve_points": 1,
+            "RioAve_home_goals": 0,
+            "RioAve_away_goals": 0,
+            "Nacional_points": 1,
+            "Nacional_home_goals": 0,
+            "Nacional_away_goals": 0
+        },
+        "MaritimoSporting": {
+            "Maritimo_points": 0,
+            "Maritimo_home_goals": 0,
+            "Maritimo_away_goals": 0,
+            "Sporting_points": 3,
+            "Sporting_home_goals": 0,
+            "Sporting_away_goals": 2
+        },
+        "BenficaGuimaraes": {
+            "Benfica_points": 1,
+            "Benfica_home_goals": 0,
+            "Benfica_away_goals": 0,
+            "Guimaraes_points": 1,
+            "Guimaraes_home_goals": 0,
+            "Guimaraes_away_goals": 0
+        },
+        "BoavistaGilVicente": {
+            "Boavista_points": 0,
+            "Boavista_home_goals": 1,
+            "Boavista_away_goals": 0,
+            "GilVicente_points": 3,
+            "GilVicente_home_goals": 0,
+            "GilVicente_away_goals": 2
+        },
+        "PacosFerreiraTondela": {
+            "PacosFerreira_points": 3,
+            "PacosFerreira_home_goals": 2,
+            "PacosFerreira_away_goals": 0,
+            "Tondela_points": 0,
+            "Tondela_home_goals": 0,
+            "Tondela_away_goals": 1
+        }
+    },
+    "HFA": 48.7
 }

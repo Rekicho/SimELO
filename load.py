@@ -10,6 +10,8 @@ def load_leagues(leagues):
             schedule = data['schedule']
             table = {}
             team_elo = {}
+            h2h = data['h2h']
+            temp_h2h = data['temp_h2h']
 
             for team in data['teams']:
                 table[team['name']] = team['points']
@@ -20,6 +22,8 @@ def load_leagues(leagues):
                 'table': table,
                 'schedule': schedule,
                 'hfa': hfa,
+                'h2h': h2h,
+                'temp_h2h': temp_h2h
             }
 
             json_file.close()

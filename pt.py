@@ -30,7 +30,9 @@ for i in range(N_SIMULATIONS):
     table = sim.simulate_league(parsed_data['POR']['team_elo'],
             copy.deepcopy(parsed_data['POR']['table']),
             parsed_data['POR']['schedule'],
-            parsed_data['POR']['hfa'])
+            parsed_data['POR']['hfa'],
+            h2h=parsed_data['POR']['h2h'],
+            temp_h2h=copy.deepcopy(parsed_data['POR']['temp_h2h']))
 
     for j, team in enumerate(table):
         full_results[team][j] += 1

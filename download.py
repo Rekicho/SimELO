@@ -5,7 +5,9 @@ import json
 
 por_dict = {
     'teams': [],
-    'schedule': []
+    'schedule': [],
+    'h2h': {},
+    'temp_h2h': {}
 }
 
 team_name_dict = {
@@ -83,15 +85,69 @@ rows = soup.find_all('tr')
 
 for row in rows:
     cells = row.find_all('td')
+    team_home = team_name_dict[cells[0].text.strip()]
+    team_away = team_name_dict[cells[2].text.strip()]
+
+    ordered = team_home + team_away if team_home <= team_away else team_away + team_home
 
     if 'vs' in cells[1].text:
-        team_home = cells[0].text.strip()
-        team_away = cells[2].text.strip()
-
         por_dict['schedule'].append({
-            'home': team_name_dict[team_home],
-            'away': team_name_dict[team_away]
+            'home': team_home,
+            'away': team_away
         })
+
+    else:
+        p = re.compile(r'(\d*) - (\d*)')
+        m = p.search(cells[1].text.strip())
+
+        goals_home = int(m.group(1))
+        goals_away = int(m.group(2))
+        home_points = 3 if goals_home > goals_away else 1 if goals_home == goals_away else 0
+        away_points = 0 if goals_home > goals_away else 1 if goals_home == goals_away else 3
+
+        if ordered in por_dict['temp_h2h']:
+            info = por_dict['temp_h2h'][ordered]
+
+            info[team_home + '_points'] += home_points
+            info[team_home + '_home_goals'] += goals_home
+            info[team_away + '_points'] += away_points
+            info[team_away + '_away_goals'] += goals_away
+
+            if info[team_home + '_points'] > info[team_away + '_points']:
+                winner = team_home
+            
+            elif info[team_home + '_points'] < info[team_away + '_points']:
+                winner = team_away
+
+            elif info[team_home + '_home_goals'] + info[team_home + '_away_goals'] > \
+                info[team_away + '_home_goals'] + info[team_away + '_away_goals']:
+                winner = team_home
+
+            elif info[team_home + '_home_goals'] + info[team_home + '_away_goals'] < \
+                info[team_away + '_home_goals'] + info[team_away + '_away_goals']:
+                winner = team_away
+
+            elif info[team_home + '_away_goals'] > info[team_away + '_away_goals']:
+                winner = team_home
+
+            elif info[team_home + '_away_goals'] < info[team_away + '_away_goals']:
+                winner = team_away
+
+            else:
+                continue
+
+            del por_dict['temp_h2h'][ordered]
+            por_dict['h2h'][ordered] = winner
+
+        else:
+            por_dict['temp_h2h'][ordered] = {
+                team_home + '_points': home_points,
+                team_home + '_home_goals': goals_home,
+                team_home + '_away_goals': 0,
+                team_away + '_points': away_points,
+                team_away + '_home_goals': 0,
+                team_away + '_away_goals': goals_away
+            }
 
 with open('data/POR.json', 'w') as output:
     json.dump(por_dict, output)
