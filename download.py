@@ -11,24 +11,24 @@ por_dict = {
 }
 
 team_name_dict = {
-    'Sporting CP': 'Sporting',
     'FC Porto': 'Porto',
     'SL Benfica': 'Benfica',
+    'Sporting CP': 'Sporting',
     'SC Braga': 'Braga',
-    'FC P.Ferreira': 'PacosFerreira',
-    'Vitória SC': 'Guimaraes',
     'Santa Clara': 'SantaClara',
     'Moreirense FC': 'Moreirense',
-    'Portimonense': 'Portimonense',
-    'Gil Vicente FC': 'GilVicente',
-    'CD Tondela': 'Tondela',
-    'Rio Ave FC': 'RioAve',
     'FC Famalicão': 'Famalicao',
-    'Belenenses SAD': 'Belenenses',
+    'Vitória SC': 'Guimaraes',
+    'FC P.Ferreira': 'PacosFerreira',
     'Boavista FC': 'Boavista',
+    'Gil Vicente FC': 'GilVicente',
+    'Belenenses SAD': 'Belenenses',
+    'Portimonense': 'Portimonense',
     'Marítimo M.': 'Maritimo',
-    'SC Farense': 'Farense',
-    'CD Nacional': 'Nacional'    
+    'CD Tondela': 'Tondela',
+    'FC Vizela': 'Vizela',
+    'Estoril Praia': 'Estoril',
+    'FC Arouca': 'Arouca'    
 }
 
 r = requests.get('http://clubelo.com/POR')
@@ -67,7 +67,7 @@ for i, country in enumerate(sidebarCountries):
             m = p.search(tag_i.text)
             numberTeams = int(m.group(1))
 
-r = requests.get('https://www.ligaportugal.pt/pt/liga/classificacao/20202021/liganos')
+r = requests.get('https://www.ligaportugal.pt/pt/liga/classificacao/20212022/ligaportugalbwin')
 soup = BeautifulSoup(r.text, 'html.parser')
 rows = soup.find('tbody').find_all('tr')[1:]
 
@@ -75,11 +75,16 @@ for row in rows:
     cells = row.find_all('td')
 
     team_name = team_name_dict[cells[2].text.strip()]
-    points = int(cells[-1].text.strip())
+
+    try:
+        points = int(cells[-1].text.strip())
+
+    except:
+        points = 0
 
     next((x for x in por_dict['teams'] if x['name'] == team_name), None)['points'] = points
 
-r = requests.get('https://www.ligaportugal.pt/pt/liga/calendario/completo/20202021/liganos')
+r = requests.get('https://www.ligaportugal.pt/pt/liga/calendario/completo/20212022/ligaportugalbwin')
 soup = BeautifulSoup(r.text, 'html.parser')
 rows = soup.find_all('tr')
 

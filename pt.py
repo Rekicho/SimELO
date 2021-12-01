@@ -5,11 +5,9 @@ import elo
 import random
 import csv
 
-N_SIMULATIONS = 1000000
-cup_finalists = ['Benfica', 'Braga']
+N_SIMULATIONS = int(1e6)
 
-parsed_data = load.load_cups(['CL'])
-parsed_data.update(load.load_leagues(['POR']))
+parsed_data = load.load_leagues(['POR'])
 
 full_results = {}
 placements = {}
@@ -27,6 +25,9 @@ for team in parsed_data['POR']['team_elo'].keys():
     }
 
 for i in range(N_SIMULATIONS):
+    if i % int(1e5) == 0:
+        print(i)
+
     table = sim.simulate_league(parsed_data['POR']['team_elo'],
             copy.deepcopy(parsed_data['POR']['table']),
             parsed_data['POR']['schedule'],
@@ -37,21 +38,6 @@ for i in range(N_SIMULATIONS):
     for j, team in enumerate(table):
         full_results[team][j] += 1
 
-    (w,d,l) = elo.calculate_result_probs(parsed_data['POR']['team_elo'][cup_finalists[0]],
-                                        parsed_data['POR']['team_elo'][cup_finalists[1]], 
-                                        draw_possible=False)
-
-    result = random.choices(
-            population=['w', 'l'],
-            weights=[w,l],
-            k=1
-        )[0]
-
-    if result == 'w':
-        cup_winner = cup_finalists[0]
-    else:
-        cup_winner = cup_finalists[1]
-
     cl = [table[0], table[1], table[2]]
     placements[cl[0]]['CL-G'] += 1
     placements[cl[1]]['CL-G'] += 1
@@ -59,20 +45,9 @@ for i in range(N_SIMULATIONS):
 
     table = table[3::]
 
-    if cup_winner in cl:
-        placements[table[0]]['EL-G'] += 1
-        placements[table[1]]['ECL-Pl'] += 1
-        placements[table[2]]['ECL-2Q'] += 1
-
-    else:
-        placements[cup_winner]['EL-G'] += 1
-
-        for team in list(table):
-            if cup_winner == team:
-                table.remove(team)
-
-        placements[table[0]]['ECL-Pl'] += 1
-        placements[table[1]]['ECL-2Q'] += 1
+    placements[table[0]]['EL-G'] += 1
+    placements[table[1]]['ECL-Pl'] += 1
+    placements[table[2]]['ECL-2Q'] += 1
 
     table = list(reversed(table))
 
